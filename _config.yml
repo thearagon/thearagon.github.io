@@ -6,6 +6,7 @@ locale: en_US
 url:
 image:
   feature: portrait.jpg
+baseurl: /thearagon.github.io
 
 # Jekyll configuration
 
