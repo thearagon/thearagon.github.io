@@ -6,16 +6,14 @@ title: "Publications and outreach"
 modified: 2019-07-07
 ---
 
-*Last update July 2020*
-
- 
- 
-## Peer reviewed publications
-
-
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
+ 
+ 
+### Peer reviewed publications  
+----
 
+*Last update July 2020*
 
 0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp (\* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*.
 Preprint on EarthArxiv, doi:[10.31223/osf.io/nsbx3](https://doi.org/10.31223/osf.io/nsbx3).  
@@ -35,12 +33,13 @@ Preprint on EarthArxiv, doi:[10.31223/osf.io/urkga](https://eartharxiv.org/urkga
 {: reversed="reversed"}
 
 
-## PhD thesis
+#### PhD thesis
 
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
 
-## Scientific communications  
+### Scientific communications  
+----
 
 #### Invited talks
 
