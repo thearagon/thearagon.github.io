@@ -7,7 +7,6 @@ url:
 image:
   feature: 
 baseurl: /thearagon.github.io
-site.url: /thearagon.github.io
 
 # Jekyll configuration
 
