@@ -1,4 +1,4 @@
-### Théa Ragon's website
+### Théa's website
 
 Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2, distributed under a MIT license).
 
