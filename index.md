@@ -25,10 +25,12 @@ _Caltech Seismo Lab | GPS Division_
 _1200 E. California Blvd., 252-21 | Pasadena, CA 91125, USA_ 
 
 You can also reach me via:  
-*thea.ragon (@) caltech.edu*
+*tragon (@) caltech.edu*
 
   
-   
+     
+       
+       
 ---
 ### Latest News
 
@@ -45,4 +47,4 @@ Oral session on Thursday morning 10:20 - 12:20, and [posters on Friday morning](
   - I will present how early afterslip impacts our co-seismic and post-seismic models in the session T13D. Come have a look at my poster the Monday afternoon!
   - Leah Langer will present our work about the impact of topography on static slip estimates, in the same poster session.
   
-- *October 2019*: Alexis Nutz presented our work about the [rifting of the northern Turkana Depression (Kenya, EARS)](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-8947.pdf), at the French Association of Sedimentologists annual meeting.
+ - *October 2019*: Alexis Nutz presented our work about the [rifting of the northern Turkana Depression (Kenya, EARS)](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-8947.pdf), at the French Association of Sedimentologists annual meeting.
