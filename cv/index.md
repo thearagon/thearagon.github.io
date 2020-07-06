@@ -8,9 +8,10 @@ modified: 2019-07-07
 
 *Last update July 2020*
 
-You can open my CV: [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}//cv/cv_ragon.pdf)
+You can open my CV: [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/cv/cv_ragon.pdf)
 
-Or scroll down...
-
-<object data="{{ site.baseurl }}/cv/cv_ragon.pdf" type="application/pdf" width="100%"> 
+<object data="{{ site.baseurl }}/cv/cv_ragon.pdf" type="application/pdf" width="100%">
+    <embed src="{{ site.baseurl }}/cv/cv_ragon.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/cv/cv_ragon.pdf">Download PDF</a>.</p>
+    </embed>
 </object>
