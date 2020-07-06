@@ -6,8 +6,11 @@ title: "Publications and outreach"
 modified: 2019-07-07
 ---
 
-### Peer reviewed publications  
-----
+*Last update July 2020*
+
+ 
+ 
+## Peer reviewed publications
 
 
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
@@ -32,13 +35,12 @@ Preprint on EarthArxiv, doi:[10.31223/osf.io/urkga](https://eartharxiv.org/urkga
 {: reversed="reversed"}
 
 
-### PhD thesis
+## PhD thesis
 
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
 
-### Scientific communications  
----
+## Scientific communications  
 
 #### Invited talks
 
