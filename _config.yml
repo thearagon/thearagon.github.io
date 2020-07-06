@@ -5,7 +5,7 @@ bio: "Postdoc at Caltech - Earthquakes, faults and inverse problems"
 locale: en_US
 url:
 image:
-  feature: portrait.jpg
+  feature: 
 baseurl: /thearagon.github.io
 
 # Jekyll configuration
@@ -30,7 +30,7 @@ kramdown:
 # Site owner
 owner:
   name: Théa Ragon
-  avatar: portrait.png
+  avatar: portrait.jpg
   bio: "Postdoc at Caltech - Earthquakes, faults and inverse problems"
   github: thearagon
   bitbucket: #username
