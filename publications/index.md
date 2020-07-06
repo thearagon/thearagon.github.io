@@ -23,10 +23,7 @@ Preprint on EarthArxiv, doi:[10.31223/osf.io/nsbx3](https://doi.org/10.31223/osf
 Preprint on EarthArxiv, doi:[10.31223/osf.io/urkga](https://eartharxiv.org/urkga/).
 
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for fault geometry uncertainty in source inversion --  II: Application to the 2016 Mw6.2 Amatrice earthquake, **2019**.  Geophysical Journal International, 218(1), 689–707, doi: 10.1093/gji/ggz180  
-[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  
-[[PDF]]()  
-[[Supplements]]()  
-[the code is freely available on Github]
+[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  ![PDF]({{ site.url }}/images/pdf.png) [PDF](https://github.com/thearagon/thearagon.github.io/publications/files/ragon_2019_gji.pdf)  ![PDF]({{ site.url }}/images/pdf.png) [PDF](https://github.com/thearagon/thearagon.github.io/publications/files/ragon_2019_gji_suppl.pdf)  [the code is freely available on Github]
 
 0. **Ragon, T.**, A. Nutz, M. Schuster, J.F. Ghienne, G. Ruffet, J-L. Rubino, 2018. Evolution of the northern Turkana Depression (East African Rift System, Kenya) during the Cenozoic rifting: new insights from the Ekitale Basin (28-25.5 Ma). Geological Journal, **2019**. doi: 10.1002/gj.3339  
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  
