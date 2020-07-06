@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fake-feature.jpg
+  feature: fake-feature.png
 title: "CV"
 modified: 2019-07-07
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fake-feature.jpg
+  feature: fake-feature.png
 title: "Publications and outreach"
 modified: 2019-07-07
 ---
