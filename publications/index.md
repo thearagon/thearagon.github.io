@@ -14,12 +14,12 @@ modified: 2019-07-07
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
 
 
-0. **Ragon, T.**\*, L. Langer*, A. Sladen, J. Tromp (* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*.
+0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp (\* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*.
 Preprint on EarthArxiv, doi:[10.31223/osf.io/nsbx3](https://doi.org/10.31223/osf.io/nsbx3).  
 [**[Preprint]**](https://eartharxiv.org/nsbx3/)
 
 0. **Ragon, T.**, A. Sladen, M. Vergnolle, Q. Bletery, O. Cavalie, A. Avallone, J. Balestra, B. Delouis. Joint inversion of co-seismic and early post-seismic slip to optimize the information content in geodetic data: application to the 2009 Mw6.3 L'Aquila earthquake, Central Italy, **2019**. *JGR Solid Earth*, doi: [10.1029/2018JB017053](https://doi.org/10.1029/2018JB017053).  
-[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053) ({{ site.url }}/images/PDF.png) [PDF](https://github.com/thearagon/thearagon.github.io/publications/files/ragon_2019_jgr.pdf)  
+[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053) ![PDF]({{ site.url }}/images/PDF.png) [PDF](https://github.com/thearagon/thearagon.github.io/publications/files/ragon_2019_jgr.pdf)  
 Preprint on EarthArxiv, doi:[10.31223/osf.io/urkga](https://eartharxiv.org/urkga/).
 
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for fault geometry uncertainty in source inversion --  II: Application to the 2016 Mw6.2 Amatrice earthquake, **2019**.  Geophysical Journal International, 218(1), 689–707, doi: 10.1093/gji/ggz180  
@@ -60,17 +60,9 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 
 #### Posters
 
-7) Ragon, T., A. Sladen,  M. Vergnolle, Q. Bletery, A. Avallone, O. Cavalié. Optimizing the information content available in geodetic data to jointly estimate co-seismic and early afterslip models. AGU Fall Meeting 2018, Washington, USA, 2018.
-6) Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in source estimation problems. Workshop on modeling earthquake source processes, Caltech, 2018.
-5) Ragon, T., A. Sladen, M. Simons. Accounting for uncertainties on the fault geometry in source inversion problems. AGU Fall Meeting, New Orleans, USA, 2017.
-4) Ragon, T., A. Sladen, Q. Bletery, M. Simons. Accounting for uncertainty on the fault geometry in source inversion problems. Cargèse School on Earthquakes, Fr, 2017.
-3) Ragon, T., A. Sladen, M. Simons. Influence of Fault Geometry Uncertainties on the Slip Distribution of Continental Earthquakes. CIG Crustal Deformation Modeling Workshop, Golden, USA, 2017.
-2) Ragon, T., A. Sladen, Q. Bletery, M. Simons, F. Magnoni, A. Avallone, O. Cavalié, M. Vergnolle. Influence of epistemic uncertainties on the slip distribution of continental earthquakes: application to the 2009 L'Aquila (Mw6. 3) and 2016 Amatrice (Mw6. 0) earthquakes, central Italy.  AGU Fall Meeting, San Francisco, USA, 2016.
-1) Ragon, T., A. Nutz*, M. Schuster, J.F. Ghienne. Very early rift sedimentation in the Turkana depression (EARS, Kenya): example of the Topernawi Formation. AGU Fall Meeting, San Francisco, USA, 2015.
+The full list is available in my [CV](https://thearagon.github.io/cv/cv.pdf)
 
-Plus 6 oral or poster presentations I co-authored.
-
-Scientific mediation and outreach talks
+#### Scientific mediation and outreach talks
 
 Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Scientific days of Observatoire Côte d'Azur, Nice, Fr, 2017. (invited)
 Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Regional final of 3 minutes thesis, Nice, Fr, 2017. More info here!
