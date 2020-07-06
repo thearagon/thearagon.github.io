@@ -25,7 +25,7 @@ _Caltech Seismo Lab | GPS Division_
 _1200 E. California Blvd., 252-21 | Pasadena, CA 91125, USA_ 
 
 You can also reach me via:  
-*tragon (@) caltech.edu*
+*tragon (at) caltech.edu*
 
   
      
