@@ -6,7 +6,7 @@ title: "Publications and outreach"
 modified: 2019-07-07
 ---
 
-### Peer reviewed publications
+### Peer reviewed publications  
 ----
 
 
@@ -45,24 +45,39 @@ Preprint on EarthArxiv, doi:[10.31223/osf.io/urkga](https://eartharxiv.org/urkga
 **Uncertainties in Earthquake Source Estimates**, *2019*. [[PDF]]()  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
 
-### Scientific communications
+### Scientific communications  
+---
+
 #### Invited talks
 
-2) May 2019, Institut de Physique du Globe de Paris (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.
-1) December 2018, AGU Fall Meeting, Washington, USA. Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in source estimation problems.  
+0. May **2019**, *Institut de Physique du Globe de Paris* (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.
+
+0. December **2018**, *AGU Fall Meeting*, Washington, USA. Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in source estimation problems.  
+{: reversed="reversed"}
+
 
 #### Oral presentations
 
-4) Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. 19th General Assembly of Wegener, Grenoble, France, 2018.     [PDF of the presentation available here]
-3) Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. PhD students conference of Université Côte d'Azur-EDSFA, Nice, Fr, 2018.
-2) Ragon, T., , A. Sladen, M. Simons. Accounting for uncertainties related to the fault geometry in source inversion problems. G2, Nice, Fr, 2017.
-1) Ragon, T., A. Nutz*, M. Schuster, J.L. Rubino, M. Bez. The Topernawi Fm (Turkana depression, EARS, Kenya): a recording of early rift opening? Congress of the French Association of Sedimentologists (ASF), Chambéry, Fr, 2015.
+0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. 19th General Assembly of Wegener, Grenoble, France, **2018**.
+
+0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. PhD students conference of Université Côte d'Azur-EDSFA, Nice, Fr, **2018**.
+
+0. **Ragon, T.,** , A. Sladen, M. Simons. Accounting for uncertainties related to the fault geometry in source inversion problems. G2, Nice, Fr, **2017**.
+
+0. **Ragon, T.**, A. Nutz*, M. Schuster, J.L. Rubino, M. Bez. The Topernawi Fm (Turkana depression, EARS, Kenya): a recording of early rift opening? Congress of the French Association of Sedimentologists (ASF), Chambéry, Fr, **2015**.
+{: reversed="reversed"}
+
 
 #### Posters
 
-The full list is available in my [CV](https://thearagon.github.io/cv/cv.pdf)
+I presented **8** posters as first author and co-authored **6** oral presentations or posters.
+The full list is available [here](https://thearagon.github.io/cv/poster_list.pdf).
+
 
 #### Scientific mediation and outreach talks
 
-Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Scientific days of Observatoire Côte d'Azur, Nice, Fr, 2017. (invited)
-Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Regional final of 3 minutes thesis, Nice, Fr, 2017. More info here!
+Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Event *Mon TPE en 300s*, Geoazur, Valbonne, Fr, **2018**. *(invited)*
+
+Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Scientific days of Observatoire Côte d'Azur, Nice, Fr, **2017**. *(invited)*
+
+Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Regional final of 3 minutes thesis, Nice, Fr, **2017**.
