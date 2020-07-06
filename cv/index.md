@@ -10,8 +10,8 @@ modified: 2019-07-07
 
 You can open my CV: [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/cv/cv_ragon.pdf)
 
-<object data="https://thearagon.github.io/thearagon.github.io/cv/cv_ragon.pdf" type="application/pdf" width="100%">
-    <embed src="https://thearagon.github.io/thearagon.github.io/cv/cv_ragon.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://thearagon.github.io/thearagon.github.io/cv/cv_ragon.pdf">Download PDF</a>.</p>
+<object data="http://thearagon.github.io/thearagon.github.io/cv/cv_ragon.pdf" type="application/pdf" width="100%">
+    <embed src="http://thearagon.github.io/thearagon.github.io/cv/cv_ragon.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://thearagon.github.io/thearagon.github.io/cv/cv_ragon.pdf">Download PDF</a>.</p>
     </embed>
 </object>
