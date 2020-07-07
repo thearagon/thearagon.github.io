@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: page
+layout: single
 date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
