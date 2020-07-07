@@ -12,7 +12,7 @@ sitemap: false
 */
 
 // Partials
-@import "minimal-mistakes/vendor/breakpoint/breakpoint";
+@import "vendor/breakpoint/breakpoint";
 @include breakpoint-set("to ems", true);
 @import "variables";
 @import "grid";
