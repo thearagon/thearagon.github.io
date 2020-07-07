@@ -1,7 +1,7 @@
 ---
 layout: mypage
 image:
-  feature: fake-feature.png
+  feature: feature3.png
 title: "Publications"
 modified: 2019-07-07
 toc: true
