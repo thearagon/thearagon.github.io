@@ -19,6 +19,10 @@ toc_sticky: true
 
 *Last update July 2020*
 
+0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (*submitted*). *Geophysical Journal International*. 
+
+0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**. Interseismic coupling along the North and East Anatolian Faults (*submitted*). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
+
 0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp (\* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*. [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.31223/osf.io/nsbx3)
 
 0. **Ragon, T.**, A. Sladen, M. Vergnolle, Q. Bletery, O. Cavalie, A. Avallone, J. Balestra, B. Delouis. Joint inversion of co-seismic and early post-seismic slip to optimize the information content in geodetic data: application to the 2009 Mw6.3 L'Aquila earthquake, Central Italy, **2019**. *JGR Solid Earth*, doi: [10.1029/2018JB017053](https://doi.org/10.1029/2018JB017053).  
