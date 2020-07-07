@@ -9,20 +9,20 @@ image:
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Uncertainty in source estimates"
     excerpt: "This is some sample content that goes here >test"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Vizualization of uncertainties"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
     alt: "placeholder image 2"
-    title: "Placeholder 3"
+    title: "Inverse problems"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -30,13 +30,13 @@ feature_row:
 feature_row2:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Early afterslip"
     excerpt: "This is some sample content that goes here >test"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Fault geometry"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
