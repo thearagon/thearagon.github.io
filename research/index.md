@@ -6,7 +6,8 @@ date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
-collection: _research
+permalink: /_research/
+collection: research
 entries_layout: grid
 gallery:
   - url: /images/research/test.png
