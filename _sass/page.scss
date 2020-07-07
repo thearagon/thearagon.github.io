@@ -247,7 +247,7 @@ $button-size: 1.5rem;
 		@include grid(12,12);
 		@include prefix(12,1);
 		@include suffix(12,1);
-        @include push(12,8);
+        @include push(14,14);
 		margin-bottom: 2em;
 		@media #{$small} {
 			@include grid(11,8);
