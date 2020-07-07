@@ -18,8 +18,8 @@ gallery:
     image_path: /images/research/test.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+  - url: /images/research/test.png
+    image_path: /images/research/test.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
