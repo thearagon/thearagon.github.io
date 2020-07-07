@@ -8,7 +8,29 @@ image:
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
-    title: "Uncertainty in earthquake source estimates"
+    title: "Uncertainty in slip estimates"
+    excerpt: "This is some sample content that goes here test"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/research/test.png
+    alt: "placeholder image 2"
+    title: "Vizualization of uncertainties"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /images/research/test.png
+    alt: "placeholder image 2"
+    title: "Inverse problems"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row2:
+  - image_path: /images/research/test.png
+    alt: "placeholder image 1"
+    title: "Uncertainty in slip estimates"
     excerpt: "This is some sample content that goes here test"
     url: "#test-link"
     btn_label: "Read More"
@@ -29,8 +51,6 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-theahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
 My research interests include:  
 - Complexity of the seismic source
 - Modeling of the seismic source and slip
@@ -41,3 +61,5 @@ My research interests include:
 - Tectono-sedimentary processes of continental rift basins
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
