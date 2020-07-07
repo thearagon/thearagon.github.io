@@ -5,7 +5,6 @@ date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
-  
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
@@ -26,27 +25,6 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     btn_label: "Read More"
     btn_class: "btn--inverse"
-
-feature_row2:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 1"
-    title: "Early afterslip"
-    excerpt: "This is some sample content that goes here >test"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Fault geometry"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 ---
 
 Test blabla 955ttf45bb
@@ -61,5 +39,3 @@ My research interests include:
 - Tectono-sedimentary processes of continental rift basins
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2 %}
