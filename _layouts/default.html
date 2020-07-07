@@ -32,13 +32,13 @@
 {% endif %}
 
 <div id="main" role="main">
-  <article class="page">
+  <article class="widepage">
     {% if page.title %}
       <h1>{{ page.title }}</h1>
     {% endif %}
-    {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
+    <div class="article-wrap">
+      {{ content }}
+    </div><!-- /.article-wrap -->
   </article>
 </div><!-- /#index -->
 

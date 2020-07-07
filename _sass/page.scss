@@ -241,7 +241,21 @@ $button-size: 1.5rem;
 		@media #{$x-large} {
 			@include grid(12,4.5);
 		}
-	}
+	.widepage {
+		@include container;
+		@include grid(6,10);
+		@include prefix(6,1);
+		@include suffix(6,1);
+		margin-bottom: 2em;
+		@media #{$small} {
+			@include grid(6,6);
+			@include prefix(6,0);
+			@include suffix(6,0);
+		}
+		@media #{$x-large} {
+			@include grid(6,4.5);
+		}
+    }
 }
 
 /* Index listing specific styling */
