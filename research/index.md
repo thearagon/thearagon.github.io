@@ -24,9 +24,9 @@ gallery:
     title: "Image 4 title caption"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
 Test blabla
+
+{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
 
 <figure>
     <a href="/images/research/Fig_HARDom.jpg" >
