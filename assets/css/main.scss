@@ -12,6 +12,11 @@ sitemap: false
 */
 
 // Partials
+@import "vendor/font-awesome/font-awesome";
+@import "vendor/academicons-1.6.0/academicons";
+@import "vendor/magnific-popup/magnific-popup";
+@import "vendor/breakpoint/breakpoint";
+
 @import "variables";
 @import "grid";
 @import "mixins";
@@ -25,7 +30,4 @@ sitemap: false
 @import "page";
 @import "archive";
 @import "utilities";
-@import "vendor/font-awesome/font-awesome";
-@import "vendor/academicons-1.6.0/academicons";
-@import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
