@@ -11,7 +11,7 @@ modified: 2019-07-07
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
 
 <br>
- 
+
 ### Peer reviewed publications  
 ---
 *Last update July 2020*
@@ -42,6 +42,8 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 
 <br>
 
+<br>
+
 ### Scientific communications  
 ----
 
@@ -53,8 +55,7 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 {: reversed="reversed"}
 
 
-#### Oral presentations
-
+#### Oral presentations  
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. 19th General Assembly of Wegener, Grenoble, France, **2018**.
 
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. PhD students conference of Université Côte d'Azur-EDSFA, Nice, Fr, **2018**.
@@ -65,14 +66,12 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 {: reversed="reversed"}
 
 
-#### Posters
-
+#### Posters  
 I presented **8** posters as first author and co-authored **6** oral presentations or posters.
 The full list is available [here]({{ site.baseurl }}/cv/poster_list.pdf).
 
 
-#### Scientific mediation and outreach talks
-
+#### Scientific mediation and outreach talks  
 Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Event *Mon TPE en 300s*, Geoazur, Valbonne, Fr, **2018**. *(invited)*
 
 Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Scientific days of Observatoire Côte d'Azur, Nice, Fr, **2017**. *(invited)*
