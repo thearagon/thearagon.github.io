@@ -9,7 +9,7 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 intro: 
   - excerpt: 'Blabla research'
 feature_row:
-  - image_path: /research/dz_slip_2km.png
+  - image_path: /images/research/dz_slip_2km.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
