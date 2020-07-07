@@ -31,8 +31,6 @@ You can also reach me via:
 {: .notice} 
      
 <br>
-
-<br>
        
 ---
 ### Latest News

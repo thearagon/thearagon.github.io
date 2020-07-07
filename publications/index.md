@@ -5,14 +5,13 @@ image:
   credit: T. Ragon. Mont Aiguille
 title: "Publications"
 modified: 2019-07-07
-toc: true
-toc_label: "What's on this page?"
-toc_sticky: true
 ---
 
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
- 
+{: .notice} 
+
+<br>
  
 ### Peer reviewed publications  
 ----
@@ -43,6 +42,8 @@ toc_sticky: true
 
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
+
+<br>
 
 ### Scientific communications  
 ----
