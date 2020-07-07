@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: mypage
 image:
   feature: fake-feature.png
 title: "Publications"
