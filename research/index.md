@@ -8,7 +8,7 @@ image:
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
-    title: "Uncertainty in source estimates"
+    title: "Uncertainty in earthquake source estimates"
     excerpt: "This is some sample content that goes here test"
     url: "#test-link"
     btn_label: "Read More"
