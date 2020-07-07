@@ -41,6 +41,15 @@ feature_row:
 
 Test blabla 5
 
+My research interests include:  
+- Complexity of the seismic source
+- Modeling of the seismic source and slip
+- Fault slip modeling (including post-seismic and aseismic processes)
+- Geometry of the causative fault
+- Inverse problems
+- Fault interactions
+- Tectono-sedimentary processes of continental rift basins
+
 {% include gallery layout="half" class="full" caption="This is a sample gallery with " %}
 
 {% include feature_row %}
