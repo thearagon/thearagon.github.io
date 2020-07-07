@@ -31,9 +31,22 @@
   <div class="image-wrap"><img src="{{ site.url }}/images/fractal-header.jpg"></div>
 {% endif %}
 
-    <div class="initial-content">
-      {{ content }}
-    </div>
+<div id="main" role="main">
+  <article class="page">
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+    {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
 
