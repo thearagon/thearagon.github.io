@@ -28,6 +28,9 @@ body {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
           flex-direction: column;
+	background-color: $bodycolor;
+	font-family: $base-font;
+	color: $text-color;
 }
 
 .initial-content,

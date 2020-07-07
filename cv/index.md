@@ -2,7 +2,6 @@
 layout: page
 image:
   feature: fake-feature.png
-  credit: T. Ragon. Lake Turkana
 title: "CV"
 modified: 2019-07-07
 ---
