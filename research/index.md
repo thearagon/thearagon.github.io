@@ -5,23 +5,6 @@ date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
-gallery:
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
@@ -42,7 +25,6 @@ feature_row:
 
 Test blabla
 
-{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
 
 {% include feature_row id="feature_row" %}
 
