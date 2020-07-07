@@ -39,7 +39,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Test blabla 3
+Test blabla 1
 
 {% include gallery layout="half" class="full" caption="This is a sample gallery with " %}
 
