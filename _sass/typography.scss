@@ -98,7 +98,7 @@ figcaption {
 	padding: .5em 1em;
 	text-indent: 0;
 	@include font-rem(14);
-	background-color: lighten($text-color, 85);
+	background-color: lighten($text-color, 75);
 /* 	border: 1px solid darken($body-color,20); */
 	@include rounded(3px);
 }
