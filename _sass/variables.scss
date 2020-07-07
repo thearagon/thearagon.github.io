@@ -32,6 +32,25 @@ $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
 
+
+$indent-var: 1.3em !default;
+
+$serif: $base-font;
+$sans-serif: $heading-font;
+$monospace: $code-font;
+$sans-serif-narrow: $sans-serif !default;
+$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$georgia: Georgia, serif !default;
+$times: Times, serif !default;
+$bodoni: "Bodoni MT", serif !default;
+$calisto: "Calisto MT", serif !default;
+$garamond: Garamond, serif !default;
+$global-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+$caption-font-family: $serif !default;
+
+
+
 /*
    Colors
    ========================================================================== */
