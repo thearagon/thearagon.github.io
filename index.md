@@ -19,16 +19,14 @@ I completed my PhD in Geophysics at [Géoazur](https://geoazur.oca.eu/fr/acc-geo
 
 I am particularly interested in earthquakes and faults behavior. My current research focuses on source estimation problems. I try to improve our understanding of what is inferred by source inversions and what are the uncertainties of inferred parameters.
 
-
+{: 
 You can find me in my office in the [Seismological Laboratory](http://seismolab.caltech.edu/) building:  
 _Office 262  |  South Mudd building_  
 _Caltech Seismo Lab | GPS Division_  
 _1200 E. California Blvd., 252-21 | Pasadena, CA 91125, USA_  
-{: .notice}  
 
 You can also reach me via:  
-*tragon (at) caltech.edu*
-  
+*tragon (at) caltech.edu*.notice}    
      
        
        
