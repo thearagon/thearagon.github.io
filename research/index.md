@@ -41,7 +41,7 @@ feature_row:
 
 Test blabla
 
-{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="half" class="full" caption="This is a sample gallery with " %}
 
 {% include feature_row %}
 
