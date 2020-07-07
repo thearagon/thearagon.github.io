@@ -9,11 +9,11 @@ modified: 2019-07-07
 
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
-{: .notice} 
 
 <br>
  
-## Peer reviewed publications
+### Peer reviewed publications  
+---
 *Last update July 2020*
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (*submitted*). *Geophysical Journal International*. 
