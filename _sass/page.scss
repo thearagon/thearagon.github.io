@@ -721,29 +721,3 @@ $button-size: 1.5rem;
 	@extend .btn;
 }
 
-/*
-   Wide Pages
-   ========================================================================== */
-
-.wide {
-  .page {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
-  }
-
-  .page__related {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
-  }
-}
-

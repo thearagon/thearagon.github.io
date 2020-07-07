@@ -30,20 +30,6 @@ $white          : #fff;
 $black          : #111;
 $accentcolor    : $black;
 
-$gray: #7a8288 !default;
-$dark-gray: mix(#000, $gray, 50%) !default;
-$darker-gray: mix(#000, $gray, 60%) !default;
-$light-gray: mix(#fff, $gray, 50%) !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
-
-$background-color: #fff !default;
-$code-background-color: #fafafa !default;
-$code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
-$muted-text-color: mix(#fff, $text-color, 20%) !default;
-$form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
-
 /* buttons */
 $primary			: $black;
 $success			: #5cb85c;
@@ -81,24 +67,3 @@ $small            : "only screen and (min-width: 37.5em)";
 $medium           : "only screen and (min-width: 48em)";
 $large            : "only screen and (min-width: 62em)";
 $x-large          : "only screen and (min-width: 86.375em)";
-
-/*
-   Grid
-   ========================================================================== */
-
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
-
-/*
-   Other
-   ========================================================================== */
-
-$border-radius: 4px !default;
-$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
-$nav-height: 2em !default;
-$nav-toggle-height: 2rem !default;
-$navicon-width: 1.5rem !default;
-$navicon-height: 0.25rem !default;
-$global-transition: all 0.2s ease-in-out !default;
-$intro-transition: intro 0.3s both !default;

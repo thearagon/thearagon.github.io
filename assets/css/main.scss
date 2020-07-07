@@ -12,8 +12,6 @@ sitemap: false
 */
 
 // Partials
-@import "vendor/breakpoint/breakpoint";
-@include breakpoint-set("to ems", true);
 @import "variables";
 @import "grid";
 @import "mixins";
@@ -25,8 +23,8 @@ sitemap: false
 @import "elements";
 @import "forms";
 @import "page";
-@import "archive";
-@import "utilities";
+/* @import "archive"; */
+/* @import "utilities"; */
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/academicons-1.6.0/academicons";
 @import "vendor/magnific-popup/magnific-popup";
