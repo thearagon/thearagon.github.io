@@ -39,7 +39,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Test blabla 955tt
+Test blabla 955ttf
 
 My research interests include:  
 - Complexity of the seismic source
