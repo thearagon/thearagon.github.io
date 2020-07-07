@@ -5,11 +5,12 @@ date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
+  
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here \ test"
   - image_path: /images/research/test.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
