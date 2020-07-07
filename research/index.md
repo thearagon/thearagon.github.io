@@ -1,7 +1,6 @@
 ---
 title: "Research"
-layout: single
-classes: wide
+layout: page
 date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
