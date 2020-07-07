@@ -24,7 +24,7 @@ gallery:
     title: "Image 4 title caption"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+feature_row2:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
@@ -48,7 +48,7 @@ Test blabla
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row2" %}
 
 
 
