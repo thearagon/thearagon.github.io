@@ -30,6 +30,20 @@ $white          : #fff;
 $black          : #111;
 $accentcolor    : $black;
 
+$gray: #7a8288 !default;
+$dark-gray: mix(#000, $gray, 50%) !default;
+$darker-gray: mix(#000, $gray, 60%) !default;
+$light-gray: mix(#fff, $gray, 50%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+
+$background-color: #fff !default;
+$code-background-color: #fafafa !default;
+$code-background-color-dark: $light-gray !default;
+$text-color: $dark-gray !default;
+$muted-text-color: mix(#fff, $text-color, 20%) !default;
+$form-background-color: $lighter-gray !default;
+$footer-background-color: $lighter-gray !default;
+
 /* buttons */
 $primary			: $black;
 $success			: #5cb85c;
