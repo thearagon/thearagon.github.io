@@ -245,11 +245,11 @@ $button-size: 1.5rem;
 	.widepage {
 		@include container;
 		@include grid(6,10);
-		@include prefix(6,1);
-		@include suffix(6,1);
+		@include prefix(12,1);
+		@include suffix(12,1);
 		margin-bottom: 2em;
 		@media #{$small} {
-			@include grid(6,3);
+			@include grid(12,3);
 			@include prefix(6,0);
 			@include suffix(6,0);
 		}
