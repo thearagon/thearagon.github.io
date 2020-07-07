@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: splash
+layout: default
 date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
@@ -39,7 +39,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-Test blabla
+Test blabla 2
 
 {% include gallery layout="half" class="full" caption="This is a sample gallery with " %}
 
