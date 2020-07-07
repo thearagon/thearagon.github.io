@@ -9,46 +9,9 @@ image:
 permalink: /_research/
 collection: research
 entries_layout: grid
-gallery:
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /images/research/test.png
-    image_path: /images/research/test.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
-feature_row:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 Test blabla
-
-{% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
-
-{% include feature_row %}
-
 
 
 
