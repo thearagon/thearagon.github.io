@@ -9,7 +9,7 @@ collection: researchco
 entries_layout: grid
 ---
 
-Test blabla
+Test blabla 2 plouf
 
 
 
