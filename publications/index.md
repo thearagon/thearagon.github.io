@@ -2,8 +2,11 @@
 layout: page
 image:
   feature: fake-feature.png
-title: "Publications and outreach"
+title: "Publications"
 modified: 2019-07-07
+toc: true
+toc_label: "What's in?"
+toc_icon: "" 
 ---
 
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
