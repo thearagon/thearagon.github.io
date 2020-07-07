@@ -2,6 +2,7 @@
 layout: homepage
 image:
   feature: feature1.png
+  credit: "T. Ragon"
 title: ""
 ---
 
