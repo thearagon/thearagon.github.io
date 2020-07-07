@@ -9,7 +9,7 @@ feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Uncertainty in source estimates"
-    excerpt: "This is some sample content that goes here >test"
+    excerpt: "This is some sample content that goes here test"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
