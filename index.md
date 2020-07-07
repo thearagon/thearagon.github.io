@@ -23,6 +23,7 @@ You can find me in my office in the [Seismological Laboratory](http://seismolab.
 _Office 262  |  South Mudd building_  
 _Caltech Seismo Lab | GPS Division_  
 _1200 E. California Blvd., 252-21 | Pasadena, CA 91125, USA_ 
+{: .notice}
 
 You can also reach me via:  
 *tragon (at) caltech.edu*
