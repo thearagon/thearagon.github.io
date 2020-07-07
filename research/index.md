@@ -5,57 +5,24 @@ date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Blabla research'
-feature_row:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/research/test.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /images/research/test.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+Test blabla
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
+<figure>
+    <a href="/images/research/Fig_HARDom.jpg" >
+    <img src="/images/research/Fig_HARDom.jpg" alt="missing" width="26%" />
+    </a>
+    <a href="/images/research/Fig_Curio.jpg" >
+    <img src="/images/research/Fig_Curio.jpg" alt="missing" width="47%" />
+    </a>
+    <a href="/images/research/Fig_Clim.jpg" >
+    <img src="/images/research/Fig_Clim.jpg" alt="missing" width="22%" />
+    </a>
+    <figcaption>Left: map of the Tibetan Plateau with glacier outlines and location
+    of the few weather stations available (Maussion et al., 2014). Middle: atmospheric
+    water transport towards the Tibetan Plateau in July plotted along cross-sections
+    of the Himalayas (Curio et al., 2015). Right: Wind vectors and geopotential
+    height in July as computed by the  <a href="http://www.klima.tu-berlin.de/har/">HAR</a>  
+    (Maussion et al., 2014). </figcaption>
+</figure>
