@@ -1,8 +1,33 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
 ---
 
-@charset "utf-8";
+/*
+ *
+ *  Minimal Mistakes
+ *
+ *  Designer: Michael Rose
+ *  Twitter: http://twitter.com/mmistakes
+ *
+*/
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+// Partials
+@import "vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+@import "variables";
+@import "grid";
+@import "mixins";
+@import "normalize";
+@import "site";
+@import "typography";
+@import "pygments";
+@import "coderay";
+@import "elements";
+@import "forms";
+@import "page";
+@import "archive";
+@import "utilities";
+@import "vendor/font-awesome/font-awesome";
+@import "vendor/academicons-1.6.0/academicons";
+@import "vendor/magnific-popup/magnific-popup";
+//@import "vendor/google/fonts";
