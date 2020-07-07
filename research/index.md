@@ -1,7 +1,6 @@
 ---
 title: "Research"
 layout: collection
-author_profile: false
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
