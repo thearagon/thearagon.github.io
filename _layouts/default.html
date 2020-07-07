@@ -1,6 +1,3 @@
----
----
-
 <!doctype html>
 <!--
   Minimal Mistakes Jekyll Theme 4.19.3 by Michael Rose
@@ -20,7 +17,22 @@
     {% include _browser-upgrade.html %}
     {% include _navigation.html %}
 <!--     {% include_cached masthead.html %} -->
-
+    
+    {% if page.image.feature %}
+    <div class="image-wrap">
+    <img src=
+        {% if page.image.feature contains 'http' %}
+        "{{ page.image.feature }}"
+        {% else %}
+        "{{ site.url }}/images/{{ page.image.feature }}"
+        {% endif %}
+    alt="{{ page.title }} feature image">
+    {% if page.image.credit %}
+        <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    {% endif %}
+    </div><!-- /.image-wrap -->
+    {% endif %}
+    
     <div class="initial-content">
       {{ content }}
     </div>
