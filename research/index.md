@@ -2,10 +2,9 @@
 title: ""
 layout: splash
 date: 2016-03-23T11:48:41-04:00
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: feature3.png
+image:
+  feature: feature2.png
+  credit: T. Ragon. Lake Turkana
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Blabla research'
