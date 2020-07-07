@@ -14,8 +14,6 @@
 
 {% include _navigation.html %}
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
 {% if page.image.feature %}
   <div class="image-wrap">
   <img src=
@@ -33,12 +31,9 @@
   <div class="image-wrap"><img src="{{ site.url }}/images/fractal-header.jpg"></div>
 {% endif %}
 
-
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+    <div class="initial-content">
+      {{ content }}
+    </div>
 
 {% include _scripts.html %}
 
