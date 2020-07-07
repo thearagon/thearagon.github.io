@@ -13,9 +13,7 @@ modified: 2019-07-07
 
 <br>
  
-### Peer reviewed publications  
-----
-
+## Peer reviewed publications
 *Last update July 2020*
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (*submitted*). *Geophysical Journal International*. 
@@ -39,7 +37,6 @@ modified: 2019-07-07
 
 
 #### PhD thesis
-
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
 
