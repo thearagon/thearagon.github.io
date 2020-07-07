@@ -5,7 +5,7 @@ classes: wide
 image:
   feature: feature2.png
   credit: T. Ragon. Lake Turkana
-collection: research
+collection: researchco
 entries_layout: grid
 ---
 
