@@ -22,18 +22,22 @@ gallery:
     image_path: /images/research/test.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /images/research/test.png
+  - image_path:/images/research/test.png
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /images/research/test.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -42,6 +46,8 @@ feature_row:
 Test blabla
 
 {% include gallery class="full" caption="This is a sample gallery with **Markdown support**." %}
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
