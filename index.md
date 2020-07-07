@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: fake-feature.png
+  feature: feature1.png
 title: ""
 ---
 
