@@ -10,7 +10,7 @@ feature_row:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here <br> >test"
+    excerpt: "This is some sample content that goes here >test"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
@@ -31,7 +31,7 @@ feature_row2:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here <br> >test"
+    excerpt: "This is some sample content that goes here >test"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
