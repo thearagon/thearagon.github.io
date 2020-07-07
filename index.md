@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: feature1.png
+  feature: feature4.png
   credit: "T. Ragon. Coseismic rupture of the Mw 6.3 Amatrice earthquake, Mt Vettore, Italy."
 title: " "
 ---
