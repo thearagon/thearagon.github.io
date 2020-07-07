@@ -244,10 +244,10 @@ $button-size: 1.5rem;
     }
 	.widepage {
 		@include container;
-		@include grid(10,10);
+		@include grid(12,16);
 		@include prefix(12,1);
 		@include suffix(12,1);
-        @include push(12,10);
+        @include push(12,12);
 		margin-bottom: 2em;
 		@media #{$small} {
 			@include grid(12,10);
@@ -256,7 +256,7 @@ $button-size: 1.5rem;
             @include push(12,3);
 		}
 		@media #{$x-large} {
-			@include grid(12,16);
+			@include grid(12,12);
 		}
     }
 }
