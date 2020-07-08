@@ -8,7 +8,8 @@
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
-    margin: 0 0 0;
+    margin: 0px;
+    margin-bottom: 0px;
 }
 h1 {
 	@include font-size(32);
@@ -28,7 +29,10 @@ h5 {
 h6 {
 	@include font-size(14);
 }
-
+h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    margin-bottom: 0px;
+}
 /* 
    Links
    ========================================================================== */
@@ -108,7 +112,7 @@ figcaption {
 	margin-top: 1.5em;
 	padding: .5em 1em;
 	text-indent: 0;
-	background-color: lighten($info-color, 35);
+	background-color: lighten($info-color, 40);
 /* 	border: 1px solid darken($body-color,20); */
 	@include rounded(3px);
 }
