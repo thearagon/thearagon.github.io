@@ -16,7 +16,9 @@ modified: 2019-07-07
 ---
 *Last update July 2020*
 
-**<center>2020</center>**
+<center>
+<h5> 2020 </h5>
+</center>
 {: .textblue}  
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (*submitted*). *Geophysical Journal International*. 
 
@@ -24,7 +26,9 @@ modified: 2019-07-07
 
 0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp (\* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*. [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.31223/osf.io/nsbx3)
 
-**<center>2019</center>**
+<center>
+<h5> 2019 </h5>
+</center>
 {: .textblue}  
 0. **Ragon, T.**, A. Sladen, M. Vergnolle, Q. Bletery, O. Cavalie, A. Avallone, J. Balestra, B. Delouis. Joint inversion of co-seismic and early post-seismic slip to optimize the information content in geodetic data: application to the 2009 Mw6.3 L'Aquila earthquake, Central Italy, **2019**. *JGR Solid Earth*, doi: [10.1029/2018JB017053](https://doi.org/10.1029/2018JB017053).  
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jgr.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jgr_suppl.pdf)  [![preprint]({{ site.url }}/images/arxiv.png)](https://eartharxiv.org/urkga/)
@@ -36,7 +40,7 @@ modified: 2019-07-07
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jg.pdf)
 
 <center>
-<h4> 2018 </h4>
+<h5> 2018 </h5>
 </center>
 {: .textblue}  
 0. **Ragon, T.**, A. Sladen, M. Simons, **2018**. Accounting for fault geometry uncertainty in source inversion --  I: theory and simplified application. Geophysical Journal International, 214(2), 1174-1190. doi: 10.1093/gji/ggy187  
