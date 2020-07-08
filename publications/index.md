@@ -10,7 +10,7 @@ modified: 2019-07-07
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
 
-<br>
+<br style="line-height: 10px" />
 
 ### Peer reviewed publications
 ---
@@ -35,21 +35,20 @@ modified: 2019-07-07
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji_suppl.pdf)
 {: reversed="reversed"}
 
-<br>
+<br style="line-height: 10px" />
+
 #### PhD thesis
 {: .textblue}
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
 {: .noticeco} 
 
-<br>
-
-<br>
+<br style="line-height: 20px" />
 
 ### Scientific communications  
 ----
 
-<br>
+<br style="line-height: 10px" />
 
 #### Invited talks  
 0. May **2019**, *Institut de Physique du Globe de Paris* (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.
