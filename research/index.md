@@ -3,8 +3,8 @@ title: "Research"
 layout: default
 date: 2016-03-23T11:48:41-04:00
 image:
-  feature: feature5.png
-  credit: T. Ragon. Lake Turkana, Kenya.
+  feature: feature2.png
+  credit: T. Ragon. Topernawi, Kenya.
 feature_row:
   - image_path: /images/research/unc1.png
     alt: "placeholder image 1"
@@ -31,22 +31,22 @@ feature_row2:
   - image_path: /images/research/test.png
     alt: "placeholder image 1"
     title: "Early afterslip"
-    excerpt: "This is some sample content that goes here test"
-    url: "#test-link"
+    excerpt: ""
+    url: "/_pages/afterslip"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/fg1.png
     alt: "placeholder image 2"
     title: "Fault geometry"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: ""
+    url: "/_pages/fault-geometry"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/rift1.png
     alt: "placeholder image 2"
     title: "Rifting processes"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: ""
+    url: "/_pages/rift"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
