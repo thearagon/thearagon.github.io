@@ -20,7 +20,6 @@ modified: 2019-07-07
 <h5> 2020 </h5>
 </center>
 {: .textblue}  
-
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (*submitted*). *Geophysical Journal International*. 
 
 0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**. Interseismic coupling along the North and East Anatolian Faults (*submitted*). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
