@@ -35,8 +35,8 @@ modified: 2019-07-07
 0. **Ragon, T.**, A. Nutz, M. Schuster, J.F. Ghienne, G. Ruffet, J-L. Rubino, 2018. Evolution of the northern Turkana Depression (East African Rift System, Kenya) during the Cenozoic rifting: new insights from the Ekitale Basin (28-25.5 Ma). Geological Journal, **2019**. doi: 10.1002/gj.3339  
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jg.pdf)
 
-**<center>2018</center>**
-{: .textblue}  
+**<center>2018</center>
+{: .textblue}**  
 0. **Ragon, T.**, A. Sladen, M. Simons, **2018**. Accounting for fault geometry uncertainty in source inversion --  I: theory and simplified application. Geophysical Journal International, 214(2), 1174-1190. doi: 10.1093/gji/ggy187  
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji_suppl.pdf)
 {: reversed="reversed"}
