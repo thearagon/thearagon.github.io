@@ -113,6 +113,9 @@ figcaption {
 	@include rounded(3px);
 }
 
+.textblue {
+	color: darken($info-color, 10);
+}
 /* 
    Blockquotes
    ========================================================================== */
