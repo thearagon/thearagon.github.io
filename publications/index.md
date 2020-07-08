@@ -82,8 +82,6 @@ Defended at *Université Côte d'Azur*, Nice, France.
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. PhD students conference of Université Côte d'Azur-EDSFA, Nice, Fr, **2018**.
 
 0. **Ragon, T.,** , A. Sladen, M. Simons. Accounting for uncertainties related to the fault geometry in source inversion problems. G2, Nice, Fr, **2017**.
-
-0. **Ragon, T.**, A. Nutz*, M. Schuster, J.L. Rubino, M. Bez. The Topernawi Fm (Turkana depression, EARS, Kenya): a recording of early rift opening? Congress of the French Association of Sedimentologists (ASF), Chambéry, Fr, **2015**.
 {: reversed="reversed"}
 
 
