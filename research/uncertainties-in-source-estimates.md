@@ -7,6 +7,8 @@ image:
   credit: T. Ragon. Lake Turkana, Kenya.
 ---
 
+{% include figure image_path="/images/research/unc2.png" alt="Uncertainties in earthquake estimates" caption="Fig 1. Illustration of uncertainties affecting earthquake source estimates." %}
+
 #### Fault geometry
 
 The superficial geometry of seismic faults can be well observed when the seismic rupture reaches the surface, as for the 2016 Amatrice earthquake, Mw6.2, Italy (see figure of illustration). At depth, the real morphology of seismic faults is partially unknown, mainly because our observations are limited to the ground surface.
