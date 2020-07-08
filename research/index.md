@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 layout: default
 date: 2016-03-23T11:48:41-04:00
 image:
@@ -51,6 +51,11 @@ feature_row2:
     btn_class: "btn--inverse"
 ---
 
+<center>
+<h1> Research </h1>
+</center>
+
+<center>
 My research interests include:  
 - Complexity of the seismic source
 - Modeling of the seismic source and slip (including post-seismic and aseismic processes)
@@ -58,7 +63,7 @@ My research interests include:
 - Inverse problems
 - Fault interactions
 - Tectono-sedimentary processes of continental rift basins
-
+<\center>
 <br style="line-height: 10px" />
 
 {% include feature_row %}
