@@ -63,8 +63,12 @@ My research interests include:
 - Geometry of the causative fault
 - Inverse problems
 - Fault interactions
-- Tectono-sedimentary processes of continental rift basins
+- Tectono-sedimentary processes of continental rift basins 
 <\center>
+
+<center>
+You can find below an excerpt of some of my current or past research projects.
+</center>
 
 <br style="line-height: 10px" />
 
