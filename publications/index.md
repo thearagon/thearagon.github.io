@@ -48,7 +48,7 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 ### Scientific communications  
 ----
 
-<br style="line-height: 10px" />
+<br style="line-height: 5px" />
 
 #### Invited talks  
 0. May **2019**, *Institut de Physique du Globe de Paris* (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.

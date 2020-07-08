@@ -53,8 +53,7 @@ feature_row2:
 
 My research interests include:  
 - Complexity of the seismic source
-- Modeling of the seismic source and slip
-- Fault slip modeling (including post-seismic and aseismic processes)
+- Modeling of the seismic source and slip (including post-seismic and aseismic processes)
 - Geometry of the causative fault
 - Inverse problems
 - Fault interactions
