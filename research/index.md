@@ -9,22 +9,22 @@ feature_row:
   - image_path: /images/research/unc1.png
     alt: "placeholder image 1"
     title: "Uncertainty in slip estimates"
-    excerpt: "This is some sample content that goes here test"
+    excerpt: "Accounting for uncertainties to improve our models"
     url: "/_pages/uncertainties-in-source-estimates"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/viz.png
     alt: "placeholder image 2"
-    title: "Vizualization of uncertainties"
-    excerpt: "This is some sample content that."
-    url: ""
+    title: "Vizualization of uncertainties and large datasets"
+    excerpt: "Improve of understanding with vizualization"
+    url: "/_pages/vizualization"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/modelinven.png
     alt: "placeholder image 2"
     title: "Inverse problems"
-    excerpt: "This is some sample"
-    url: "#test-link"
+    excerpt: "Explore the solution space"
+    url: "/_pages/inversion"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
@@ -35,14 +35,14 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
+  - image_path: /images/research/fg1.png
     alt: "placeholder image 2"
     title: "Fault geometry"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
+  - image_path: /images/research/rift1.png
     alt: "placeholder image 2"
     title: "Rifting processes"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -58,6 +58,8 @@ My research interests include:
 - Inverse problems
 - Fault interactions
 - Tectono-sedimentary processes of continental rift basins
+
+<br style="line-height: 10px" />
 
 {% include feature_row %}
 

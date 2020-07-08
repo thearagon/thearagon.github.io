@@ -49,7 +49,7 @@ modified: 2019-07-07
 Defended at *Université Côte d'Azur*, Nice, France.  
 *Advisors*: **Anthony Sladen** and **Bertrand Delouis**.  
 *Reviewers*: **Andreas Rietbrock** and **Luis Rivera**  
-*Examiners*: **Guillaume Caumon**, **Jean-Paul Ampuero** and **Romain Jolivet** as examiners.
+*Examiners*: **Guillaume Caumon**, **Jean-Paul Ampuero** and **Romain Jolivet**.
 {: .noticeco} 
 
 <br style="line-height: 20px" />
