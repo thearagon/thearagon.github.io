@@ -15,8 +15,8 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /images/research/viz.png
     alt: "placeholder image 2"
-    title: "Vizualization of uncertainties and large datasets"
-    excerpt: "Improve of understanding with vizualization"
+    title: "Vizualization of uncertainties"
+    excerpt: "Improve of understanding with vizualization of large datasets"
     url: "/_pages/vizualization"
     btn_label: "Read More"
     btn_class: "btn--inverse"
