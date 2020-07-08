@@ -7,7 +7,7 @@ image:
   credit: T. Ragon. Topernawi, Kenya.
 feature_row:
   - image_path: /images/research/unc1.png
-    alt: "placeholder image 1"
+    alt: ""
     title: "Uncertainty in slip estimates"
     excerpt: "Accounting for uncertainties to improve our models"
     url: "/_pages/uncertainties-in-source-estimates"
@@ -21,29 +21,29 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/modelinven.png
-    alt: "placeholder image 2"
+    alt: ""
     title: "Inverse problems"
     excerpt: "Explore the solution space"
     url: "/_pages/inversion"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
-  - image_path: /images/research/test.png
-    alt: "placeholder image 1"
+  - image_path: /images/research/afterslip.png
+    alt: ""
     title: "Early afterslip"
     excerpt: ""
     url: "/_pages/afterslip"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/fg1.png
-    alt: "placeholder image 2"
+    alt: ""
     title: "Fault geometry"
     excerpt: ""
     url: "/_pages/fault-geometry"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/rift1.png
-    alt: "placeholder image 2"
+    alt: ""
     title: "Rifting processes"
     excerpt: ""
     url: "/_pages/rift"
