@@ -12,7 +12,7 @@ modified: 2019-07-07
 
 <br>
 
-### Peer reviewed publications  
+### Peer reviewed publications
 ---
 *Last update July 2020*
 
@@ -35,7 +35,7 @@ modified: 2019-07-07
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji_suppl.pdf)
 {: reversed="reversed"}
 
-
+<br>
 #### PhD thesis
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.

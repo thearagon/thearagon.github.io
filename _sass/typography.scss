@@ -107,7 +107,7 @@ figcaption {
 	margin-top: 1.5em;
 	padding: .5em 1em;
 	text-indent: 0;
-	background-color: lighten($info-color, 50);
+	background-color: lighten($info-color, 35);
 /* 	border: 1px solid darken($body-color,20); */
 	@include rounded(3px);
 }
