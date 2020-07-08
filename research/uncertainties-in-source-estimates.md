@@ -7,7 +7,7 @@ image:
   credit: T. Ragon. Lake Turkana, Kenya.
 ---
 
-### Fault geometry
+#### Fault geometry
 
 The superficial geometry of seismic faults can be well observed when the seismic rupture reaches the surface, as for the 2016 Amatrice earthquake, Mw6.2, Italy (see figure of illustration). At depth, the real morphology of seismic faults is partially unknown, mainly because our observations are limited to the ground surface.
 When solving for the characteristics of the seismic source, such as the slip distribution, we generally choose a particular fault geometry and assume this structure is undoubtedly realistic. Yet, our assumed fault geometry is partially unknown, and therefore is partially uncertain, and this uncertainty can biased inferred models ( Beresnev 2003; Hartzell et al. 2007; Diao et al. 2016) .  
@@ -18,15 +18,16 @@ The impact of fault geometry uncertainties on inferred models will depend on sev
 
 You can observe in the following animations the impact of accounting for uncertainties in the fault dip and position for slip distribution of the 2016 Amatrice earthquake, Mw6.2, Central Italy. We assume an uncertainty (standard deviation) on the fault dip and position of respectively 5° and 2 km, values reflecting the variation of most probable approximations of the fault geometry. More info in Ragon et al. 2018b.
 
-### Crustal Structure
+#### Crustal Structure
+
 The fault geometry is not the only uncertain approximation we assume when we solve for the source characteristics. The crustal structure is often reduced to an homogeneous and elastic, or layered, medium. Yet, this approximations can have a large impact on inferred source models ( Beresnev 2003; Hartzell et al. 2007; Diao et al. 2016). We also show in Ragon et al. 2018b that all first-order uncertainties of the forward model must be accounted for to infer reliable models.
 
 You can observe in the following animations the impact of accounting for uncertainties in the crustal structure, the fault dip and position on the slip distribution of the 2009 L’Aquila earthquake, Mw6.3, Central Italy. We assume an uncertainty (standard deviation) on the fault dip and position of respectively 5° and 2 km, values reflecting the variation of most probable approximations of the fault geometry. More info soon.
 
 
+<br style="line-height: 10px" />
 
-
-### A selected bibliography on uncertainties of the forward model:
+##### A selected bibliography on uncertainties of the forward model:
 - Beresnev, I. A., 2003. Uncertainties in Finite-Fault Slip Inversions: To What Extent to Believe? (A Critical Review), Bulletin of the Seismological Society of America, 93(6), 2445–2458.
 
 - Hallo, M. & Gallovic, F., 2016. Fast and cheap approximation of Green function uncertainty for waveform-based earthquake source inversions, Geophysical Journal International, 207(2), 1012–1029.
