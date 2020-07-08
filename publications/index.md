@@ -40,7 +40,9 @@ modified: 2019-07-07
 #### PhD thesis
 {: .textblue}
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
-Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
+Defended at *Université Côte d'Azur*, Nice, France. \
+**Advisors**: Anthony Sladen and Bertrand Delouis. \
+**Committee**: Andreas Rietbrock and Luis Rivera as reviewers, Guillaume Caumon, Jean-Paul Ampuero and Romain Jolivet as examiners.
 {: .noticeco} 
 
 <br style="line-height: 20px" />
@@ -57,7 +59,11 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 {: reversed="reversed"}
 
 
-#### Oral presentations  
+#### Selected presentations  
+0. A. Nutz, **Ragon, T.**, M. Schuster, J.-F. Ghienne, G. Ruffet, J.L. Rubino. Caractérisation d’un micro-bassin « Early syn-rift » dans la Dépression du Turkana (Rift Est-Africain) : implications pour les modèles d’initiation de l’ouverture.  17e Congrès de Sédimentologie Français, Oct 2019, Beauvais, France, **2019**.
+
+0. L. Langer, **T. Ragon**, A. Sladen, J. Tromp. Impact of 3D Green's Functions with Topography on Coseismic Slip Model Inversions. AGU Fall Meeting 2018, Washington, USA, **2018**.
+	
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. 19th General Assembly of Wegener, Grenoble, France, **2018**.
 
 0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. PhD students conference of Université Côte d'Azur-EDSFA, Nice, Fr, **2018**.
@@ -69,7 +75,7 @@ Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'
 
 
 #### Posters  
-I presented **8** posters as first author and co-authored **6** oral presentations or posters.
+I presented several posters as first author and co-authored several other oral presentations or posters.
 The full list is available [here]({{ site.baseurl }}/cv/poster_list.pdf).
 
 
