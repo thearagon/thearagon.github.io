@@ -6,24 +6,24 @@ image:
   feature: feature5.png
   credit: T. Ragon. Lake Turkana, Kenya.
 feature_row:
-  - image_path: /images/research/test.png
+  - image_path: /images/research/unc1.png
     alt: "placeholder image 1"
     title: "Uncertainty in slip estimates"
     excerpt: "This is some sample content that goes here test"
     url: "/_pages/uncertainties-in-source-estimates"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
+  - image_path: /images/research/viz.png
     alt: "placeholder image 2"
     title: "Vizualization of uncertainties"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that."
     url: ""
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/research/test.png
+  - image_path: /images/research/modelinven.png
     alt: "placeholder image 2"
     title: "Inverse problems"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
