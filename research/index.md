@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: default
+layout: page
 date: 2016-03-23T11:48:41-04:00
 image:
   feature: feature2.png
@@ -20,6 +20,7 @@ feature_row:
     url: "/_pages/vizualization"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+feature_row3:
   - image_path: /images/research/modelinven.png
     alt: ""
     title: "Inverse problems"
@@ -27,7 +28,6 @@ feature_row:
     url: "/_pages/inversion"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row2:
   - image_path: /images/research/afterslip.png
     alt: ""
     title: "Early afterslip"
@@ -35,6 +35,7 @@ feature_row2:
     url: "/_pages/afterslip"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+feature_row2:
   - image_path: /images/research/fg1.png
     alt: ""
     title: "Fault geometry"
@@ -68,3 +69,5 @@ My research interests include:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
+
+{% include feature_row id="feature_row3" %}
