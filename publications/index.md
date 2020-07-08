@@ -25,6 +25,7 @@ modified: 2019-07-07
 0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**. Interseismic coupling along the North and East Anatolian Faults (*submitted*). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
 
 0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp (\* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*. [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.31223/osf.io/nsbx3)
+{: reversed="reversed"}
 
 <center>
 <h5> 2019 </h5>
@@ -38,6 +39,7 @@ modified: 2019-07-07
 
 0. **Ragon, T.**, A. Nutz, M. Schuster, J.F. Ghienne, G. Ruffet, J-L. Rubino, 2018. Evolution of the northern Turkana Depression (East African Rift System, Kenya) during the Cenozoic rifting: new insights from the Ekitale Basin (28-25.5 Ma). *Geological Journal*, **2019**. doi: 10.1002/gj.3339  
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jg.pdf)
+{: reversed="reversed"}
 
 <center>
 <h5> 2018 </h5>
