@@ -2,7 +2,7 @@
 layout: mypage
 image:
   feature: feature3.png
-  credit: T. Ragon. Mont Aiguille
+  credit: T. Ragon. Mont Aiguille, France.
 title: "Publications"
 modified: 2019-07-07
 ---
