@@ -51,16 +51,16 @@ feature_row2:
     btn_class: "btn--inverse"
 ---
 
-<h1> &emsp; &emsp; &emsp; &emsp; Research </h1>
+<h1> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Research </h1>
 
-&emsp; &emsp; &emsp; &emsp;
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 My research interests include:  
-&emsp; &emsp; &emsp; &emsp;- Complexity of the seismic source  
-&emsp; &emsp; &emsp; &emsp;- Modeling of the seismic source and slip (including post-seismic and aseismic processes)  
-&emsp; &emsp; &emsp; &emsp;- Geometry of the causative fault  
-&emsp; &emsp; &emsp; &emsp;- Inverse problems  
-&emsp; &emsp; &emsp; &emsp;- Fault interactions  
-&emsp; &emsp; &emsp; &emsp;- Tectono-sedimentary processes of continental rift basins
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;- Complexity of the seismic source  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;- Modeling of the seismic source and slip (including post-seismic and aseismic processes)  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;- Geometry of the causative fault  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;- Inverse problems  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;- Fault interactions  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;- Tectono-sedimentary processes of continental rift basins
 
 
 <br style="line-height: 10px" />
