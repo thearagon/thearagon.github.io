@@ -1,0 +1,18 @@
+---
+title: "Early afterslip"
+layout: page
+date: 2016-03-23T11:48:41-04:00
+image:
+  feature: feature5.png
+  credit: T. Ragon. Lake Turkana, Kenya.
+---
+
+> We show that if the early post-seismic deformation is not acknowledged in earthquake source inversions, inferred co-seismic models can be largely overestimated. Similarly, the total post-seismic slip budget is largely underestimated (up to a factor 3 for the L’Aquila earthquake!).
+
+Geodetic data provide static information on the displacement of the surface of the Earth, and allow for a detailed analysis of earthquake characteristics. Yet, geodetic data are generally characterized by either a good temporal or a good spatial resolution, but rarely both. GNSS time series are commonly used and can provide a good temporal resolution, but the spatial resolution of such observation is usually limited. In contrast, synthetic aperture radar interferometry (InSAR) can provide extensive spatial coverage but with a limited temporal resolution. Indeed, while earthquakes last for a few seconds, very often satellites have a revisit time of more than a few days. If earthquakes do not nucleate just before the visit of a satellite, which is generally the case, the measured deformation is the co-seismic signal plus a fraction of the post-seismic deformation. As a consequence, most earthquakes models based on geodetic observations are biased by unwanted deformation signal. In practice, used interferograms or campaign GNSS offsets generally cover time periods extending at least a few days before and after the mainshock.
+
+This lack of resolution affects our understanding of the evolution of seismic and aseismic processes. The post-seismic deformation happening on the first few days after the mainshock is usually detectable in the geodetic data but incorporated in source estimation problems as if it was part of the co-seismic signal, with the justification that it is comparatively small. Similarly, post-seismic models generally do not account for observations related to the early post-seismic deformation because they are often contaminated by co-seismic signal.
+
+We propose a simple approach to counterbalance this lack of resolution by solving simultaneously for slip distributions on several time windows using datasets covering various time periods. This approach, also validated with a toy model, allows us to investigate the strictly co-seismic rupture of the Mw6.3 L’Aquila earthquake, Central Italy, and the processes at play on the fault during the first few days after the mainshock. We provide a strictly co-seismic slip model and a very early post-seismic model of the L’Aquila earthquake, and discuss the interactions between co-seismic slip, afterslip and aftershocks at short (6 days after mainshock) and long term (months after mainshock).
+
+We show that if the early post-seismic deformation is not acknowledged in earthquake source inversions, inferred co-seismic models can be largely overestimated. Similarly, the total post-seismic slip budget is largely underestimated (up to a factor 3 for the L’Aquila earthquake!). This work illustrates the importance of acknowledging the early post-seismic deformation to reliably address central scientific questions, such as the relationship between seismic and aseismic slip and their driving mechanisms, the interactions between on-fault deformation and aftershocks, and the agreement between nature and laboratory derived theories such as rate and state friction laws.
