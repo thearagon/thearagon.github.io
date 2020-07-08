@@ -39,7 +39,7 @@ modified: 2019-07-07
 #### PhD thesis
 **Uncertainties in Earthquake Source Estimates**, *2019*. [![PDF]({{ site.url }}/images/pdf.png)](https://tel.archives-ouvertes.fr/tel-02271745/document)  
 Advisors: Anthony Sladen and Bertrand Delouis. Defended at *Université Côte d'Azur*, Nice, France.
-{: .alert .alert-info}
+{: .noticeco} 
 
 <br>
 
