@@ -10,14 +10,14 @@ feature_row:
     alt: "placeholder image 1"
     title: "Uncertainty in slip estimates"
     excerpt: "This is some sample content that goes here test"
-    url: "uncert.md"
+    url: "/research/uncert.md"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
     alt: "placeholder image 2"
     title: "Vizualization of uncertainties"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "/research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/test.png
