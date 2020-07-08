@@ -53,7 +53,7 @@ feature_row2:
 ---
 
 <center>
-<h1> Research t </h1>
+<h1> Research </h1>
 </center>
 
 <center>
