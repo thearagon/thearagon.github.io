@@ -6,8 +6,10 @@ image:
   feature: feature5.png
   credit: T. Ragon. Lake Turkana, Kenya.
 ---
-
-{% include figure image_path="images/research/unc2.png" alt="Uncertainties in earthquake estimates" caption="Fig 1. Illustration of uncertainties affecting earthquake source estimates." %}
+<figure>
+  <img src="/images/research/unc2.png" alt="">
+  <figcaption>Fig 1. Illustration of uncertainties affecting earthquake source estimates.</figcaption>
+</figure>
 
 #### Fault geometry
 
