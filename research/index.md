@@ -52,11 +52,11 @@ feature_row2:
     btn_class: "btn--inverse"
 ---
 
-
+<center>
 <h1> Research </h1>
-{: .text-center}
+</center>
 
-
+<center>
 My research interests include:  
 - Complexity of the seismic source
 - Modeling of the seismic source and slip (including post-seismic and aseismic processes)
@@ -64,10 +64,11 @@ My research interests include:
 - Inverse problems
 - Fault interactions
 - Tectono-sedimentary processes of continental rift basins 
-{: .text-center}
+</center>
 
+<center>
 You can find below an excerpt of some of my current or past research projects.
-{: .text-center}
+</center>
 
 <br style="line-height: 10px" />
 
@@ -75,6 +76,10 @@ You can find below an excerpt of some of my current or past research projects.
 {% include feature_row %}
 </center>
 
+<center>
 {% include feature_row id="feature_row2" %}
+</center>
 
+<center>
 {% include feature_row id="feature_row3" %}
+</center>
