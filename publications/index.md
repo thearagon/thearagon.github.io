@@ -7,8 +7,6 @@ title: "Publications"
 modified: 2019-07-07
 ---
 
-<br>
-
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
 
