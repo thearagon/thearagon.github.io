@@ -77,9 +77,9 @@ You can find below an excerpt of some of my current or past research projects.
 </center>
 
 <center>
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
 </center>
 
 <center>
-{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row2" %}
 </center>
