@@ -3,18 +3,17 @@ title: "Uncertainties in source estimates"
 layout: page
 date: 2016-03-23T11:48:41-04:00
 image:
-  feature: feature5.png
-  credit: T. Ragon. Lake Turkana, Kenya.
+  feature: fake_feature.png
 ---
+
+> We rely on inferences of subsurface fault slip to provide important insights after major earthquakes. More generally, we often use these images to explore the physics of the seismic source as well as post-seismic phenomena. We thus need these inferred images to be as accurate as possible, but we also need to be able to describe their limits, as well as the limits of the interpretations we derive from them.
+>
+> My research mainly focuses on the impact of an inaccurate description of the Earth s interior on source estimates. I focus on the effect of fault geometry, 3D crustal structure, and topography, and show that accounting for imperfect descriptions systematically increases the reliability of source estimates.
 
 <figure>
   <img src="/images/research/unc2.png" alt="">
   <figcaption>Fig 1. Illustration of uncertainties affecting earthquake source estimates.</figcaption>
 </figure>
-
-> We rely on inferences of subsurface fault slip to provide important insights after major earthquakes. More generally, we often use these images to explore the physics of the seismic source as well as post-seismic phenomena. We thus need these inferred images to be as accurate as possible, but we also need to be able to describe their limits, as well as the limits of the interpretations we derive from them.
->
-> My research mainly focuses on the impact of an inaccurate description of the Earth s interior on source estimates. I focus on the effect of fault geometry, 3D crustal structure, and topography, and show that accounting for imperfect descriptions systematically increases the reliability of source estimates.
 
 Source estimates are constrained by the quality and quantity of observations, but are also severely impacted by the way we build the forward model and by any other prior information we include in the problem. Many authors have demonstrated that any change in the characteristics of the forward model (which include source parameterization but also description of the Earth's interior) may lead to variations in the inferred source properties. Yet, our understanding of Earth's interior structure will always remain uncertain, and thus will always be susceptible to include biases in inferred source properties.
 
