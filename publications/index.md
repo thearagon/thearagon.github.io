@@ -24,27 +24,27 @@ modified: 2019-07-07
 
 0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**. Interseismic coupling along the North and East Anatolian Faults (*submitted*). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
 
-0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp (\* *equally contributing authors*). Impact of topography on static slip estimates, **2020**. *Tectonophysics*. [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.31223/osf.io/nsbx3)
+0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp, **2020** (\* *equally contributing authors*). Impact of topography on static slip estimates. *Tectonophysics*. [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.31223/osf.io/nsbx3)
 
     <center>
     <h5> 2019 </h5>
     </center>
     {: .textblue}  
-0. **Ragon, T.**, A. Sladen, M. Vergnolle, Q. Bletery, O. Cavalie, A. Avallone, J. Balestra, B. Delouis. Joint inversion of co-seismic and early post-seismic slip to optimize the information content in geodetic data: application to the 2009 Mw6.3 L'Aquila earthquake, Central Italy, **2019**. *JGR Solid Earth*, doi: [10.1029/2018JB017053](https://doi.org/10.1029/2018JB017053).  
+0. **Ragon, T.**, A. Sladen, M. Vergnolle, Q. Bletery, O. Cavalie, A. Avallone, J. Balestra, B. Delouis, **2019**. Joint inversion of co-seismic and early post-seismic slip to optimize the information content in geodetic data: application to the 2009 Mw6.3 L'Aquila earthquake, Central Italy. *JGR Solid Earth*, doi: [10.1029/2018JB017053](https://doi.org/10.1029/2018JB017053).  
 [**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jgr.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jgr_suppl.pdf)  [![preprint]({{ site.url }}/images/arxiv.png)](https://eartharxiv.org/urkga/)
 
-0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for fault geometry uncertainty in source inversion --  II: Application to the 2016 Mw6.2 Amatrice earthquake, **2019**. *Geophysical Journal International*, 218(1), 689–707, doi: 10.1093/gji/ggz180  
-[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_gji_suppl.pdf)  [the code is freely available on Github]
+0. **Ragon, T.**, A. Sladen, M. Simons, **2019**. Accounting for fault geometry uncertainty in source inversion --  II: Application to the 2016 Mw6.2 Amatrice earthquake. *Geophysical Journal International*, 218(1), 689–707, doi: [10.1093/gji/ggz180](https://doi.org/10.1093/gji/ggz180)  
+[**[Free access link]**](https://academic.oup.com/gji/article/218/1/689/5454748?guestAccessKey=b45527ab-725a-40bf-bf0b-82ad5b9fda40)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_gji_suppl.pdf)  [the code is freely available on Github]
 
-0. **Ragon, T.**, A. Nutz, M. Schuster, J.F. Ghienne, G. Ruffet, J-L. Rubino, 2018. Evolution of the northern Turkana Depression (East African Rift System, Kenya) during the Cenozoic rifting: new insights from the Ekitale Basin (28-25.5 Ma). *Geological Journal*, **2019**. doi: 10.1002/gj.3339  
-[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jg.pdf)
+0. **Ragon, T.**, A. Nutz, M. Schuster, J.F. Ghienne, G. Ruffet, J-L. Rubino, **2019**. Evolution of the northern Turkana Depression (East African Rift System, Kenya) during the Cenozoic rifting: new insights from the Ekitale Basin (28-25.5 Ma). Geological Journal*. doi: [10.1002/gj.3339](https://onlinelibrary.wiley.com/doi/abs/10.1002/gj.3339)  
+[**[Free access link]**](https://www.researchgate.net/profile/Thea_Ragon/publication/328422693_Evolution_of_the_northern_Turkana_Depression_East_African_Rift_System_Kenya_during_the_Cenozoic_rifting_New_insights_from_the_Ekitale_Basin_28-255_Ma/links/5bd18bb6a6fdcc6f7900cfb0/Evolution-of-the-northern-Turkana-Depression-East-African-Rift-System-Kenya-during-the-Cenozoic-rifting-New-insights-from-the-Ekitale-Basin-28-255-Ma.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2019_jg.pdf)
 
     <center>
     <h5> 2018 </h5>
     </center>
     {: .textblue}  
-0. **Ragon, T.**, A. Sladen, M. Simons, **2018**. Accounting for fault geometry uncertainty in source inversion --  I: theory and simplified application. *Geophysical Journal International*, 214(2), 1174-1190. doi: 10.1093/gji/ggy187  
-[**[Free access link]**](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2018JB017053)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji_suppl.pdf)
+0. **Ragon, T.**, A. Sladen, M. Simons, **2018**. Accounting for fault geometry uncertainty in source inversion --  I: theory and simplified application. *Geophysical Journal International*, 214(2), 1174-1190. doi: [10.1093/gji/ggy187](http://dx.doi.org/10.1093/gji/ggy187)  
+[**[Free access link]**](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggy187/4996353?guestAccessKey=86188bcd-f078-4700-9762-27d888995596)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji_suppl.pdf)
 {: reversed="reversed"}
 
 <br style="line-height: 10px" />
