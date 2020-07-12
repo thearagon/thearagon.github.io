@@ -29,6 +29,11 @@ Ragon et al., **2018**. Accounting for fault geometry uncertainty in source inve
 The superficial geometry of seismic faults can be well observed when the seismic rupture reaches the surface. At depth, the real morphology of seismic faults is partially unknown, mainly because our observations are limited to the ground surface.
 When solving for the characteristics of the seismic source, such as the slip distribution, we generally choose a particular fault geometry and assume this structure is undoubtedly realistic.
 
+<figure>
+  <img src="/images/research/unc3.png" alt="">
+  <figcaption>Fig 2. Accounting for uncertainties in fault geometry: illustration for a simple 2D toy model.</figcaption>
+</figure>
+
 In Ragon et al. (2018), we proposed a methodology to account for uncertainties in the fault geometry. Based on a sensitivity analysis, this methodology incorporates the uncertainties of our approximations on the morphology of seismic faults in the inversion process. For both optimization approaches and probabilistic sampling methods, accounting for uncertainties in the fault geometry allows to reliably infer source characteristics even if our assumption on the fault geometry is incorrect.
 
 The impact of fault geometry uncertainties on inferred models will depend on several parameters: sensibility of the observations to variations of the fault geometry, distribution of the observations, complexity of the fault geometry, degree of approximation of the fault morphology, etc. For most earthquakes, the impact of these uncertainties on the solution will thus be particularly difficult to anticipate. Yet, accounting for fault geometry uncertainties in the inversion process will be particularly significant for earthquakes with near fault observations, such as continental events.
@@ -38,6 +43,11 @@ The impact of fault geometry uncertainties on inferred models will depend on sev
 Ragon et al., **2020**. Accounting for uncertain 3D elastic structure in fault slip estimates. *Geophysical Journal International*.  
 Ragon et al., **2019**. Accounting for fault geometry uncertainty in source inversion --  II: Application to the 2016 Mw6.2 Amatrice earthquake. *Geophysical Journal International*, 218(1), 689–707, doi: [10.1093/gji/ggz180](https://doi.org/10.1093/gji/ggz180)
 {: .notice} 
+
+<figure>
+  <img src="/images/research/unc3.png" alt="">
+  <figcaption>Fig 3. Accounting for uncertainties in fault geometry and crustal structure: illustration for a simple 2D toy model.</figcaption>
+</figure>
 
 The fault geometry is not the only uncertain approximation we assume when we solve for the source characteristics. The crustal structure is often reduced to an homogeneous and elastic, or layered, medium. Yet, this approximations can have a large impact on inferred source models ( Beresnev 2003; Hartzell et al. 2007; Diao et al. 2016). We also show in Ragon et al. 2019 that all first-order uncertainties of the forward model must be accounted for to infer reliable models.
 
