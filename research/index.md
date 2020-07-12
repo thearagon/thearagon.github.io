@@ -17,7 +17,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Vizualization of uncertainties"
     excerpt: "Improve our understanding with vizualization of large datasets"
-    url: "/_pages/vizualization"
+    url: "/_pages/vizualization-of-uncertainties"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
