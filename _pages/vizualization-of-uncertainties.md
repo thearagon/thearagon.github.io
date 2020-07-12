@@ -22,7 +22,14 @@ We can group inferred models in several families of models. Each family can then
 
 <figure>
   <img src="/images/research/viz2.gif" alt="">
-  <figcaption>Fig 1. Illustration of uncertainties affecting earthquake source estimates.</figcaption>
+  <figcaption>Fig 1. Animated co-seismic slip distribution for the 2016 Amatrice earthquake, Mw6.2, Central Italy. Random samples are selected in each family of models..</figcaption>
 </figure>
 
+##### How are the family of models built?
+The set of samples inferred from an inversion is divided into 25 subsets, for simplicity. The families of models are chosen and built iteratively. Each sample is selected randomly, and included in a family:
+- The first family gathers samples whose parameters are of less than 50 cm offset from the median model parameters. In detail, a model is added to the first family if the selected model and the median model are parameter-wise equal within a relative tolerance of 20\% added to an absolute tolerance of 50 cm.
+- If the selected model doesn’t fall in the first family, it is used as root for the second family.
+- The last family regroups orphan samples.  
 
+The first family is the most populated, as around the median model, and gathers the most probable models. In contrast, other families group models with a smaller likelihood, but that may prove as realistic as the median model.
+The threshold value (in this example of 50 cm) is adapted empirically so that the number of samples in each family is equivalent — except for the 1st family. This threshold usually corresponds to the standard deviation of peak slip amplitude parameters.
