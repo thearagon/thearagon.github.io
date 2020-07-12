@@ -44,7 +44,7 @@ Ragon et al., **2019**. Accounting for fault geometry uncertainty in source inve
 {: .notice} 
 
 <figure>
-  <img src="/images/research/unc3.png" alt="">
+  <img src="/images/research/unc4.png" alt="">
   <figcaption>Fig 3. Accounting for uncertainties in fault geometry and crustal structure: illustration for a simple 2D toy model.</figcaption>
 </figure>
 
