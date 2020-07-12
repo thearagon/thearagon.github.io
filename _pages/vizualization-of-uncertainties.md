@@ -44,6 +44,8 @@ Currently, a simple L2 norm residual is used to measure the distance between sam
 Unpublished yet.
 {: .notice} 
 
+A value-suppressing uncertainty palette is a bivariate palette (representing every combination of a value and its uncertainty) for which the number of represented combinations is gradually reduced with the uncertainty. You can find more detailed explanations in [this article](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9). 
+
 <p class="aligncenter">
 <figure>
   <img src="/images/research/viz3.png" alt="">
