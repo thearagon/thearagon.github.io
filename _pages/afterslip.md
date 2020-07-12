@@ -7,7 +7,9 @@ image:
   credit: T. Ragon. Lake Turkana, Kenya.
 ---
 
-> We show that if the early post-seismic deformation is not acknowledged in earthquake source inversions, inferred co-seismic models can be largely overestimated. Similarly, the total post-seismic slip budget is largely underestimated (up to a factor 3 for the L’Aquila earthquake!).
+> We show that if the early post-seismic deformation is not acknowledged in earthquake source inversions, inferred co-seismic models can be largely overestimated. Similarly, the total post-seismic slip budget is largely underestimated (up to a factor 3 for the L’Aquila earthquake!).  
+>
+>Related publication: Ragon et al. Joint inversion of co-seismic and early post-seismic slip to optimize the information content in geodetic data: application to the 2009 Mw6.3 L'Aquila earthquake, Central Italy, **2019**. *JGR Solid Earth*, doi: [10.1029/2018JB017053](https://doi.org/10.1029/2018JB017053). 
 
 Geodetic data provide static information on the displacement of the surface of the Earth, and allow for a detailed analysis of earthquake characteristics. Yet, geodetic data are generally characterized by either a good temporal or a good spatial resolution, but rarely both. GNSS time series are commonly used and can provide a good temporal resolution, but the spatial resolution of such observation is usually limited. In contrast, synthetic aperture radar interferometry (InSAR) can provide extensive spatial coverage but with a limited temporal resolution. Indeed, while earthquakes last for a few seconds, very often satellites have a revisit time of more than a few days. If earthquakes do not nucleate just before the visit of a satellite, which is generally the case, the measured deformation is the co-seismic signal plus a fraction of the post-seismic deformation. As a consequence, most earthquakes models based on geodetic observations are biased by unwanted deformation signal. In practice, used interferograms or campaign GNSS offsets generally cover time periods extending at least a few days before and after the mainshock.
 
