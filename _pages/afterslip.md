@@ -3,8 +3,7 @@ title: "Early afterslip"
 layout: page
 date: 2016-03-23T11:48:41-04:00
 image:
-  feature: feature5.png
-  credit: T. Ragon. Lake Turkana, Kenya.
+  feature: fake-feature.png
 ---
 
 > We show that if the early post-seismic deformation is not acknowledged in earthquake source inversions, inferred co-seismic models can be largely overestimated. Similarly, the total post-seismic slip budget is largely underestimated (up to a factor 3 for the L’Aquila earthquake!).  
