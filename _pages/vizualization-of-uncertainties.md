@@ -20,12 +20,11 @@ Ragon et al., **2019**. Accounting for fault geometry uncertainty in source inve
 
 We can group inferred models in several families of models. Each family can then be represented by its median model. Or we could also randomly select a model in each of the families. These illustrations allow us to easily and intuitively decipher the posterior uncertainty of each parameter, the spatial correlation between the parameters (trade-off) and the area of high slip amplitudes.
 
-<center>
 <figure>
   <img src="/images/research/viz2.gif" alt="">
   <figcaption>Fig 1. Animated co-seismic slip distribution for the 2016 Amatrice earthquake, Mw6.2, Central Italy. Random samples are selected in each family of models..</figcaption>
 </figure>
-</center>
+{: .align-center}
 
 ##### How are the family of models built?
 The set of samples inferred from an inversion is divided into 25 subsets, for simplicity. The families of models are chosen and built iteratively. Each sample is selected randomly, and included in a family:
@@ -46,9 +45,8 @@ Unpublished yet.
 
 A value-suppressing uncertainty palette is a bivariate palette (representing every combination of a value and its uncertainty) for which the number of represented combinations is gradually reduced with the uncertainty. You can find more detailed explanations in [this article](https://medium.com/@uwdata/value-suppressing-uncertainty-palettes-426130122ce9). 
 
-<center>
 <figure>
   <img src="/images/research/viz3.png" alt="">
   <figcaption>Fig 2. Coseismic model for the 2010 Mw 8.8 Maule earthquake, published in Ragon, Langer et al. (2020). </figcaption>
 </figure>
-</center>
+{: .align-center}
