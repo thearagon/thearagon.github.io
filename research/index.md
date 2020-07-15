@@ -72,11 +72,14 @@ You can find below an excerpt of some of my current or past research projects.
 
 <br style="line-height: 10px" />
 
+<center>
 {% include feature_row %}
-{: .align-center}
+</center>
 
+<center>
 {% include feature_row id="feature_row3" %}
-{: .align-center}
+</center>
 
+<center>
 {% include feature_row id="feature_row2" %}
-{: .align-center}
+</center>
