@@ -25,7 +25,7 @@ feature_row3:
     alt: ""
     title: "Inverse problems"
     excerpt: "Explore the solution space"
-    url: "/_pages/inversion"
+    url: "/_pages/inverse-problems"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/afterslip.png
