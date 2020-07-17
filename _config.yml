@@ -91,6 +91,12 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones  
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-172949099-1"
+    anonymize_ip: false # default  
+    
 # Site owner
 owner:
   name: Théa Ragon
@@ -109,7 +115,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: UA-172949099-1
+    analytics: 
     verify:
     ad-client:
     ad-slot:
@@ -126,12 +132,6 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-172949099-1"
-    anonymize_ip: false # default  
   
 #include: [".htaccess"]
 #exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
