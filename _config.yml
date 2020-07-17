@@ -92,7 +92,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones  
 
 analytics:
-  provider: "google"
+  provider: "google-universal"
   google:
     tracking_id: "UA-172949099-1"
     anonymize_ip: false # default  
