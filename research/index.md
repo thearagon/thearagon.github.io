@@ -68,7 +68,7 @@ Tectono-sedimentary processes of continental rift basins
 </center>
 
 <center>
-You can find below an excerpt of some of my current or past research projects.
+You can find below an excerpt of some of my current or dormant research projects.
 </center>
 
 <br style="line-height: 10px" />
