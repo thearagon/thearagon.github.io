@@ -56,7 +56,7 @@ feature_row2:
 <h1> Research </h1>
 </center>
 
-
+<center>
 My research interests include:  
 Complexity of the seismic source  
 Modeling of the seismic source and slip (including post-seismic and aseismic processes)  
@@ -65,6 +65,7 @@ Inverse problems
 Kinematics of fault networks, fault interactions  
 Tectono-sedimentary processes of continental rift basins  
 {: .text-center}
+</center>
 
 <center>
 You can find below an excerpt of some of my current or past research projects.
