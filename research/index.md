@@ -65,6 +65,12 @@ Kinematics of fault networks, fault interactions
 Tectono-sedimentary processes of continental rift basins  
 {: .align-center}
 
+<ol style="text-align:center; list-style-position:inside;">
+  <li>Complexity of the seismic source </li>
+  <li>List 2</li>
+  <li>List 3</li>
+</ol>
+
 <center>
 You can find below an excerpt of some of my current or dormant research projects.
 </center>
