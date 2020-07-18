@@ -61,8 +61,7 @@ My research interests include:
 </center>
 <ul style="text-align:center; list-style-position:inside;">
   <li>Complexity of the seismic source </li>
-  <li>Modeling of the seismic sour
-  ce and slip (including post-seismic and aseismic processes)  </li>
+  <li>Modeling of the seismic source and slip (including post-seismic and aseismic processes)  </li>
   <li>Geometry of the causative fault</li>
   <li> Inverse problems   </li>
   <li> Kinematics of fault networks, fault interactions </li>
