@@ -56,20 +56,18 @@ feature_row2:
 <h1> Research </h1>
 </center>
 
+<center>
 My research interests include:  
-Complexity of the seismic source  
-Modeling of the seismic source and slip (including post-seismic and aseismic processes)  
-Geometry of the causative fault  
-Inverse problems  
-Kinematics of fault networks, fault interactions  
-Tectono-sedimentary processes of continental rift basins  
-{: .align-center}
-
-<ol style="text-align:center; list-style-position:inside;">
+</center>
+<ul style="text-align:center; list-style-position:inside;">
   <li>Complexity of the seismic source </li>
-  <li>List 2</li>
-  <li>List 3</li>
-</ol>
+  <li>Modeling of the seismic sour
+  ce and slip (including post-seismic and aseismic processes)  </li>
+  <li>Geometry of the causative fault</li>
+  <li> Inverse problems   </li>
+  <li> Kinematics of fault networks, fault interactions </li>
+  <li> Tectono-sedimentary processes of continental rift basins  </li>
+</ul>
 
 <center>
 You can find below an excerpt of some of my current or dormant research projects.
