@@ -24,7 +24,7 @@ modified: 2019-07-07
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (**submitted**). *Geophysical Journal International*. 
 
-0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**. Interseismic coupling along the North and East Anatolian Faults (*submitted*). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
+0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**. Interseismic coupling along the North and East Anatolian Faults (**submitted**). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
 
 0. **Ragon, T.**\*, L. Langer\*, A. Sladen, J. Tromp, **2020** (\* *equally contributing authors*). Impact of topography on static slip estimates. *Tectonophysics*, doi: [10.1016/j.tecto.2020.228566](https://doi.org/10.1016/j.tecto.2020.228566).  
 [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/langer_2020_tecto.pdf)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/langer_2020_tecto_suppl.pdf)  [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.31223/osf.io/nsbx3)
