@@ -47,6 +47,6 @@ A value-suppressing uncertainty palette is a bivariate palette (representing eve
 
 <figure>
   <img src="/images/research/viz3.png" alt="">
-  <figcaption>Fig 2. Coseismic model for the 2010 Mw 8.8 Maule earthquake, published in Ragon, Langer et al. (2020). </figcaption>
+  <figcaption>Fig 2. Stochastic slip model for the 2019 Mw 7.1 Ridgecrest earthquake, unpublished. </figcaption>
 </figure>
 {: .align-center}
