@@ -17,7 +17,7 @@ Welcome!
 I am the [GPS](https://www.gps.caltech.edu/) Chair’s Prize Postdoctoral Fellow at the [California Institute of Technology](https://www.caltech.edu/). 
 I completed my PhD in Geophysics at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur), Université Côte d’Azur, in May 2019.
 
-My research aims at better understanding the **deformation of the shallow parts of the Earth before, during and after an earthquake**. I am particularly interested in modeling or simulating earthquakes and faults behavior.  
+My research aims at better understanding the **deformation of the shallow parts of the Earth** on multiple temporal and spatial scales, from the displacement induced a few seconds to days **before, during and after an earthquake** to the long-term interaction of fault networks. I am particularly interested in modeling or simulating earthquakes and faults behavior.  
 These last few years, I focused on source estimation problems, using probabilistic approaches to decipher the robust characteristics, or the uncertainties, of our models. I also use stochastic methods to study recent large earthquakes. Finally, I am also interested in how faults interact with each other and how their geometry impacts the deformation.
 
 
