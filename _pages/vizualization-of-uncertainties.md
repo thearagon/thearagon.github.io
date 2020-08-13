@@ -50,3 +50,9 @@ A value-suppressing uncertainty palette is a bivariate palette (representing eve
   <figcaption>Fig 2. Stochastic slip model for the 2019 Mw 7.1 Ridgecrest earthquake, unpublished. </figcaption>
 </figure>
 {: .align-center}
+
+<figure>
+  <img src="/images/research/viz4.png" alt="">
+  <figcaption>Fig 2. Stochastic slip model for the 2019 Mw 7.1 Ridgecrest earthquake, with a continuous value-suppressing color palette, unpublished. </figcaption>
+</figure>
+{: .align-center}
