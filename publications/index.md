@@ -20,6 +20,8 @@ modified: 2019-07-07
 <h5> 2020 </h5>
 </center>
 {: .textblue}  
+0. **Ragon, T.**, M. Simons, Q. Bletery, O. Cavalié, E. Fielding (**submitted**). A stochastic view of the 2020 Elazig Mw6.8 earthquake. *Geophysical Research Letters*
+
 0. Nutz, A., M. Schuster, D. Barboni, G. Gassier, C. Robin, **T. Ragon**, J.F. Ghienne, J.-L. Rubino (**submitted**). Plio-Quaternary sedimentation in West Turkana (Turkana Depression, Kenya, East African Rift System): paleolake Turkana fluctuations, paleolandscapes and controlling factors. *Earth-Science Reviews* 
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (**submitted**). *Geophysical Journal International*. 
@@ -75,6 +77,8 @@ Defended at *Université Côte d'Azur*, Nice, France.
 
 
 #### Selected oral presentations  
+Full list available [here]({{ site.baseurl }}/cv/full_list.pdf)
+
 0. A. Nutz, **Ragon, T.**, M. Schuster, J.-F. Ghienne, G. Ruffet, J.L. Rubino. Caractérisation d’un micro-bassin « Early syn-rift » dans la Dépression du Turkana (Rift Est-Africain) : implications pour les modèles d’initiation de l’ouverture.  17e Congrès de Sédimentologie Français, Oct 2019, Beauvais, France, **2019**.
 
 0. L. Langer, **T. Ragon**, A. Sladen, J. Tromp. Impact of 3D Green's Functions with Topography on Coseismic Slip Model Inversions. AGU Fall Meeting 2018, Washington, USA, **2018**.
@@ -89,7 +93,7 @@ Defended at *Université Côte d'Azur*, Nice, France.
 
 #### Posters  
 I presented several posters as first author and co-authored several other oral presentations or posters.
-The full list is available [here]({{ site.baseurl }}/cv/poster_list.pdf).
+The full list is available [here]({{ site.baseurl }}/cv/full_list.pdf).
 
 
 #### Scientific mediation and outreach talks  
