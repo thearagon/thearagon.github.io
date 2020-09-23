@@ -36,6 +36,10 @@ You can also reach me via:
 ---
 ### Latest News
 
+- *September 2020*: Our work on the **stochastic view of the 2020 Elazığ Mw 6.8 earthquake** (Turkey) is available as a [Preprint](https://www.essoar.org/doi/10.1002/essoar.10504361.1)
+
+- *August 2020*: Our work on **Bayesian estimate of interseismic slip deficit of the East and North Anatolian faults** (Turkey) is now published in [GRL](https://doi.org/10.1029/2020GL087775)
+
 - *July 2020*: Our work on the **impact of topography on slip estimates** is now published in *Tectonophysics*. We notably show that topography can largely affect slip models even when using geodetic data only, and that zeroth-order corrections are not sufficient to account for induced biases. [Link to journal](https://www.sciencedirect.com/science/article/pii/S0040195120302493?via%3Dihub)
 
 - _June 2020_: Our session proposal for AGU 2020 has been accepted! Please consider [submitting abstracts](https://agu.confex.com/agu/fm20/prelim.cgi/Session/103131) to S016 - **Modeling and imaging complex earthquake ruptures**, co-convened with Ryo Okuwaki, Wenyuan Fan and Dara Goldberg.
