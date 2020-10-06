@@ -36,6 +36,8 @@ You can also reach me via:
 ---
 ### Latest News
 
+- *October 2020*: Alexis Nutz will present **Plio-pleistocene paleoenvironments in West Turkana (East African Rift System, Kenya)** at the [GSA Meeting - 10/29 at 7:15pm](https://gsa.confex.com/gsa/2020AM/meetingapp.cgi/Paper/351278). 
+
 - *September 2020*: Our work on the **stochastic view of the 2020 Elazığ Mw 6.8 earthquake** (Turkey) is available as a [Preprint](https://www.essoar.org/doi/10.1002/essoar.10504361.1)
 
 - *August 2020*: Our work on **Bayesian estimate of interseismic slip deficit of the East and North Anatolian faults** (Turkey) is now published in [GRL](https://doi.org/10.1029/2020GL087775)
