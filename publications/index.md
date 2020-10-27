@@ -21,7 +21,7 @@ modified: 2019-07-07
 </center>
 {: .textblue}  
 
-0. **Ragon, T.**, M. Simons, Q. Bletery, O. Cavalié, E. Fielding (**in review**). A stochastic view of the 2020 Elazig Mw6.8 earthquake (Turkey). *Geophysical Research Letters*
+0. **Ragon, T.**, M. Simons, Q. Bletery, O. Cavalié, E. Fielding (**in review**). A stochastic view of the 2020 Elazig Mw6.8 earthquake (Turkey). *Geophysical Research Letters*. [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.1002/essoar.10504361.1)
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (**in review**). *Geophysical Journal International*. 
 
