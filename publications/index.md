@@ -14,17 +14,18 @@ modified: 2019-07-07
 
 ### Peer reviewed publications
 ---
-*Last update July 2020*
+*Last update October 2020*
 
 <center>
 <h5> 2020 </h5>
 </center>
 {: .textblue}  
-0. **Ragon, T.**, M. Simons, Q. Bletery, O. Cavalié, E. Fielding (**submitted**). A stochastic view of the 2020 Elazig Mw6.8 earthquake. *Geophysical Research Letters*
 
-0. Nutz, A., M. Schuster, D. Barboni, G. Gassier, C. Robin, **T. Ragon**, J.F. Ghienne, J.-L. Rubino (**submitted**). Plio-Quaternary sedimentation in West Turkana (Turkana Depression, Kenya, East African Rift System): paleolake Turkana fluctuations, paleolandscapes and controlling factors. *Earth-Science Reviews* 
+0. **Ragon, T.**, M. Simons, Q. Bletery, O. Cavalié, E. Fielding (**in review**). A stochastic view of the 2020 Elazig Mw6.8 earthquake (Turkey). *Geophysical Research Letters*
 
-0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (**submitted**). *Geophysical Journal International*. 
+0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates (**in review**). *Geophysical Journal International*. 
+
+0. Nutz, A., M. Schuster, D. Barboni, G. Gassier, B. Van Bocxlaer, C. Robin, **T. Ragon**, J.F. Ghienne, J.-L. Rubino, **2020**. Plio-Quaternary sedimentation in West Turkana (Turkana Depression, Kenya, East African Rift System): paleolake fluctuations, paleolandscapes and controlling factors. *Earth-Science Reviews*, doi: [10.1016/j.earscirev.2020.103415](https://doi.org/10.1016/j.earscirev.2020.103415). [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/nutz_2020_esr.pdf)
 
 0. Bletery, Q., O. Cavalié, J.-M. Nocquet, **T. Ragon**, **2020**. Interseismic coupling along the North and East Anatolian Faults. *Geophysical Research Letters*, doi: [10.1029/2020GL087775](https://doi.org/10.1029/2020GL087775). [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/bletery_2020_grl.pdf) [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
 
