@@ -35,6 +35,8 @@ You can also reach me via:
        
 ---
 ### Latest News
+- *November 2020*: Our work on **Accounting for uncertain 3D elastic structure in fault slip estimates ** is now out in [GJI](https://doi.org/10.1093/gji/ggaa526). 
+
 - *November 2020*: A. Nutz's work on the **Plio-Pleistocene sedimentation in West Turkana (Kenya, EARS): Paleolake fluctuations, paleolandscapes and controlling factors** is now out in [Earth Science Reviews](https://doi.org/10.1016/j.earscirev.2020.103415). 
 
 - *October 2020*: Alexis Nutz will present **Plio-pleistocene paleoenvironments in West Turkana (East African Rift System, Kenya)** at the [GSA Meeting - 10/29 at 7:15pm](https://gsa.confex.com/gsa/2020AM/meetingapp.cgi/Paper/351278). 
