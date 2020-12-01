@@ -35,7 +35,7 @@ You can also reach me via:
        
 ---
 ### Latest News
-{: .textblue}
+
 - *December 2020*: Our AGU20 session is live! Live **Modeling and imaging complex earthquake ruptures** session is **Saturday, 12 December from 4 to 6:30pm PST**. 
     Presentations are available online:
     * [S042 oral presentations on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107492)
