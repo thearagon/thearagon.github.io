@@ -35,6 +35,16 @@ You can also reach me via:
        
 ---
 ### Latest News
+- *December 2020*: Our AGU20 session is live! Live **Modeling and imaging complex earthquake ruptures** session is **Saturday, 12 December from 4 to 6:30pm PST**. 
+    
+    Presentations are available online:
+    * S042 oral presentations on numerical simulations
+    * S043 oral session on observation-based modeling
+    * S036 posters on numerical simulations
+    * S037 posters on observation-based modeling
+    
+    Questions and discussions, during and following the meeting, are encouraged in the [slack space](https://join.slack.com/t/agu20modeling-l4m6792/shared_invite/zt-j9jhud4n-pby6csm9sqzBRSvwLxUhvg) dedicated to the session.
+
 - *November 2020*: Our work on **Accounting for uncertain 3D elastic structure in fault slip estimates** is now out in [GJI](https://doi.org/10.1093/gji/ggaa526). 
 
 - *November 2020*: A. Nutz's work on the **Plio-Pleistocene sedimentation in West Turkana (Kenya, EARS): Paleolake fluctuations, paleolandscapes and controlling factors** is now out in [Earth Science Reviews](https://doi.org/10.1016/j.earscirev.2020.103415). 
