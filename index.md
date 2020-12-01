@@ -36,12 +36,11 @@ You can also reach me via:
 ---
 ### Latest News
 - *December 2020*: Our AGU20 session is live! Live **Modeling and imaging complex earthquake ruptures** session is **Saturday, 12 December from 4 to 6:30pm PST**. 
-    
     Presentations are available online:
-    * S042 oral presentations on numerical simulations
-    * S043 oral session on observation-based modeling
-    * S036 posters on numerical simulations
-    * S037 posters on observation-based modeling
+    * [S042 oral presentations on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107492)
+    * [S043 oral session on observation-based modeling](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107497)
+    * [S036 posters on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/103131)
+    * [S037 posters on observation-based modeling](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107502)
     
     Questions and discussions, during and following the meeting, are encouraged in the [slack space](https://join.slack.com/t/agu20modeling-l4m6792/shared_invite/zt-j9jhud4n-pby6csm9sqzBRSvwLxUhvg) dedicated to the session.
 
