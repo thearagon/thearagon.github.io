@@ -45,6 +45,7 @@ You can also reach me via:
     
     Questions and discussions, during and following the meeting, are encouraged in the slack workspace dedicated to the session - *if interested, ask for the link!*
 {: .noticeco} 
+
 - *November 2020*: Our work on **Accounting for uncertain 3D elastic structure in fault slip estimates** is now out in [GJI](https://doi.org/10.1093/gji/ggaa526). 
 
 - *November 2020*: A. Nutz's work on the **Plio-Pleistocene sedimentation in West Turkana (Kenya, EARS): Paleolake fluctuations, paleolandscapes and controlling factors** is now out in [Earth Science Reviews](https://doi.org/10.1016/j.earscirev.2020.103415). 
