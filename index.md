@@ -43,7 +43,7 @@ You can also reach me via:
     * [S036 posters on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/103131)
     * [S037 posters on observation-based modeling](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107502)
     
-    Questions and discussions, during and following the meeting, are encouraged in the [slack space](https://join.slack.com/t/agu20modeling-l4m6792/shared_invite/zt-j9jhud4n-pby6csm9sqzBRSvwLxUhvg) dedicated to the session.
+    Questions and discussions, during and following the meeting, are encouraged in the slack workspace dedicated to the session - *if interested, ask for the link!*
 {: .noticeco} 
 - *November 2020*: Our work on **Accounting for uncertain 3D elastic structure in fault slip estimates** is now out in [GJI](https://doi.org/10.1093/gji/ggaa526). 
 
