@@ -36,6 +36,8 @@ You can also reach me via:
 ---
 ### Latest News
 
+- *December 2020*: Our Bayesian analysis of the 2020 Elazığ Mw6.8 earthquake (Turkey) based on geodetic data is now published in GRL! [Free access link](https://onlinelibrary.wiley.com/share/author/S7CHFYHJGCAGVPGV3EEX?target=10.1029/2020GL090704)
+
 - *December 2020*: Our AGU20 session is live! Live **Modeling and imaging complex earthquake ruptures** session is **Saturday, 12 December from 4 to 6:30pm PST**. 
     Presentations are available online:
     * [S042 oral presentations on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107492)
