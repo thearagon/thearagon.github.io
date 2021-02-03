@@ -36,6 +36,8 @@ You can also reach me via:
 ---
 ### Latest News
 
+- *January 2021*: [Our work on uncertainties in fault geometry is amongst the 14 most cited articles of GJI in 2020!](https://academic.oup.com/gji/pages/highly_cited?utm_campaign=oupac-campaign:819779&utm_source=eTOC&utm_medium=email&utm_content=text+advert&utm_term=gji)
+
 - *December 2020*: Our Bayesian analysis of the 2020 Elazığ Mw6.8 earthquake (Turkey) based on geodetic data is now published in GRL! [Free access link](https://onlinelibrary.wiley.com/share/author/S7CHFYHJGCAGVPGV3EEX?target=10.1029/2020GL090704)
 {: } 
 
