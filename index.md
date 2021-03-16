@@ -35,6 +35,7 @@ You can also reach me via:
        
 ---
 ### Latest News
+- *March 2021*: I gave a *Mardi Séisme* seminar at Géoazur, Nice. You can find the recording of my talk on their youtube chanel: [How to hamper the effect of Earth's structure approximations on on-fault deformation estimates?](https://www.youtube.com/watch?v=q_o2PjDUpPA&list=PLSr2ZD7i9s6kwDyUg96-zFDmXYDmi1rAu&index=16)
 
 - *January 2021*: [Our work on uncertainties in fault geometry is amongst the 14 most cited articles of GJI in 2020!](https://academic.oup.com/gji/pages/highly_cited?utm_campaign=oupac-campaign:819779&utm_source=eTOC&utm_medium=email&utm_content=text+advert&utm_term=gji)
 
