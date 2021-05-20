@@ -96,7 +96,7 @@ Full list available [here](/cv/full_list.pdf)
 
 #### Posters  
 I presented several posters as first author and co-authored several other oral presentations or posters.
-The full list is available [here](../cv/full_list.pdf).
+The full list is available [here](/cv/full_list.pdf).
 
 
 #### Scientific mediation and outreach talks  
