@@ -70,7 +70,9 @@ Defended at *Université Côte d'Azur*, Nice, France.
 
 <br style="line-height: 5px" />
 
-#### Invited talks  
+#### Invited talks and seminars
+0. March **2021**, *Géoazur*, Nice, France. You can find the recording of my talk on their youtube chanel: [How to hamper the effect of Earth's structure approximations on on-fault deformation estimates?](https://www.youtube.com/watch?v=q_o2PjDUpPA&list=PLSr2ZD7i9s6kwDyUg96-zFDmXYDmi1rAu&index=16)
+
 0. May **2019**, *Institut de Physique du Globe de Paris* (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.
 
 0. December **2018**, *AGU Fall Meeting*, Washington, USA. Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in source estimation problems.  
