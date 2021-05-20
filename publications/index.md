@@ -80,7 +80,7 @@ Defended at *Université Côte d'Azur*, Nice, France.
 
 
 #### Selected oral presentations  
-Full list available [here]({{ site.baseurl }}{{ cv/full_list.pdf}})
+Full list available [here](cv/full_list.pdf)
 
 0. A. Nutz, **Ragon, T.**, M. Schuster, J.-F. Ghienne, G. Ruffet, J.L. Rubino. Caractérisation d’un micro-bassin « Early syn-rift » dans la Dépression du Turkana (Rift Est-Africain) : implications pour les modèles d’initiation de l’ouverture.  17e Congrès de Sédimentologie Français, Oct 2019, Beauvais, France, **2019**.
 
