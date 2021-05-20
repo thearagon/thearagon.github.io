@@ -42,7 +42,7 @@ modified: 2019-07-07
 [**[Free access link]**](https://academic.oup.com/gji/article/218/1/689/5454748?guestAccessKey=b45527ab-725a-40bf-bf0b-82ad5b9fda40)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2019_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2019_gji_suppl.pdf)  [the code is freely available on Github]
 
 0. **Ragon, T.**, A. Nutz, M. Schuster, J.F. Ghienne, G. Ruffet, J-L. Rubino, **2019**. Evolution of the northern Turkana Depression (East African Rift System, Kenya) during the Cenozoic rifting: new insights from the Ekitale Basin (28-25.5 Ma). Geological Journal*. doi: [10.1002/gj.3339](https://onlinelibrary.wiley.com/doi/abs/10.1002/gj.3339)  
-[**[Free access link]**](https://www.researchgate.net/profile/Thea_Ragon/publication/328422693_Evolution_of_the_northern_Turkana_Depression_East_African_Rift_System_Kenya_during_the_Cenozoic_rifting_New_insights_from_the_Ekitale_Basin_28-255_Ma/links/5bd18bb6a6fdcc6f7900cfb0/Evolution-of-the-northern-Turkana-Depression-East-African-Rift-System-Kenya-during-the-Cenozoic-rifting-New-insights-from-the-Ekitale-Basin-28-255-Ma.pdf)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2019_jg.pdf)
+[**[Free access link]**](https://www.researchgate.net/profile/Thea_Ragon/publication/328422693_Evolution_of_the_northern_Turkana_Depression_East_African_Rift_System_Kenya_during_the_Cenozoic_rifting_New_insights_from_the_Ekitale_Basin_28-255_Ma/links/5bd18bb6a6fdcc6f7900cfb0/Evolution-of-the-northern-Turkana-Depression-East-African-Rift-System-Kenya-during-the-Cenozoic-rifting-New-insights-from-the-Ekitale-Basin-28-255-Ma.pdf)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2019_gj.pdf)
 
     <center>
     <h5> 2018 </h5>
@@ -80,7 +80,7 @@ Defended at *Université Côte d'Azur*, Nice, France.
 
 
 #### Selected oral presentations  
-Full list available [here](../cv/full_list.pdf)
+Full list available [here]({{ site.baseurl }}{{ cv/full_list.pdf}})
 
 0. A. Nutz, **Ragon, T.**, M. Schuster, J.-F. Ghienne, G. Ruffet, J.L. Rubino. Caractérisation d’un micro-bassin « Early syn-rift » dans la Dépression du Turkana (Rift Est-Africain) : implications pour les modèles d’initiation de l’ouverture.  17e Congrès de Sédimentologie Français, Oct 2019, Beauvais, France, **2019**.
 
