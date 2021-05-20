@@ -49,7 +49,7 @@ modified: 2019-07-07
     </center>
     {: .textblue}  
 0. **Ragon, T.**, A. Sladen, M. Simons, **2018**. Accounting for fault geometry uncertainty in source inversion --  I: theory and simplified application. *Geophysical Journal International*, 214(2), 1174-1190. doi: [10.1093/gji/ggy187](http://dx.doi.org/10.1093/gji/ggy187)  
-[**[Free access link]**](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggy187/4996353?guestAccessKey=86188bcd-f078-4700-9762-27d888995596)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)](../publications/files/ragon_2018_gji_suppl.pdf)
+[**[Free access link]**](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggy187/4996353?guestAccessKey=86188bcd-f078-4700-9762-27d888995596)  [![PDF]({{ site.url }}/images/pdf.png)]({{ site.baseurl }}/publications/files/ragon_2018_gji.pdf)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2018_gji_suppl.pdf)
 {: reversed="reversed"}
 
 <br style="line-height: 10px" />
