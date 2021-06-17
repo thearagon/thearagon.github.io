@@ -35,10 +35,6 @@ You can also reach me via:
        
 ---
 ### Latest News
-- *June 2021*: Our session proposal for AGU 2021 has been accepted! Please consider [submitting abstracts](https://agu.confex.com/agu/fm21/prelim.cgi/Session/124133) to S023- **State-of-the-art observations and modeling of earthquake source processes**, convened with Alice Gabriel, Elisa Tinti and Yoshihiro Kaneko.
-
-- *June 2021*: I am participating to the [Pylith 2021 Hackathon](https://geodynamics.org/cig/events/calendar/2021-pylith-hack/)!
-
 - *March 2021*: I gave a *Mardi Séisme* seminar at Géoazur, Nice. You can find the recording of my talk on their youtube chanel: [How to hamper the effect of Earth's structure approximations on on-fault deformation estimates?](https://www.youtube.com/watch?v=q_o2PjDUpPA&list=PLSr2ZD7i9s6kwDyUg96-zFDmXYDmi1rAu&index=16)
 
 - *January 2021*: [Our work on uncertainties in fault geometry is amongst the 14 most cited articles of GJI in 2020!](https://academic.oup.com/gji/pages/highly_cited?utm_campaign=oupac-campaign:819779&utm_source=eTOC&utm_medium=email&utm_content=text+advert&utm_term=gji)
