@@ -25,14 +25,14 @@ feature_row3:
     alt: ""
     title: "Inverse problems"
     excerpt: "Explore the solution space"
-    url: "/_pages/inverse-problems"
+    url: "https://thearagon.github.io/_pages/inverse-problems"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/afterslip.png
     alt: ""
     title: "Early afterslip"
     excerpt: "And how it affects coseismic estimates"
-    url: "/_pages/afterslip"
+    url: "https://thearagon.github.io/_pages/afterslip"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
@@ -40,14 +40,14 @@ feature_row2:
     alt: ""
     title: "Fault geometry"
     excerpt: ""
-    url: "/_pages/fault-geometry"
+    url: "https://thearagon.github.io/_pages/fault-geometry"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/rift1.png
     alt: ""
     title: "Rifting processes"
     excerpt: ""
-    url: "/_pages/rift"
+    url: "https://thearagon.github.io/_pages/rift"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
