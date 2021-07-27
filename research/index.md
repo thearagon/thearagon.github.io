@@ -6,7 +6,7 @@ image:
   feature: feature2.png
   credit: T. Ragon. Topernawi, Kenya.
 feature_row:
-  - image_path: "/images/research/unc1.png"
+  - image_path: "./img/unc1.png"
     alt: ""
     title: "Uncertainty in slip estimates"
     excerpt: "Accounting for uncertainties to improve our models"
