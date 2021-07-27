@@ -13,7 +13,7 @@ feature_row:
     url: "https://thearagon.github.io/_pages/uncertainties-in-source-estimates"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/img/viz.png"
+  - image_path: /img/viz.png
     alt: "placeholder image 2"
     title: "Vizualization of uncertainties"
     excerpt: "Improve our understanding with vizualization of large datasets"
