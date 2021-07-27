@@ -10,3 +10,7 @@ image:
 >
 > My research mainly focuses on the impact of an inaccurate description of the Earth s interior on source estimates. I focus on the effect of fault geometry, 3D crustal structure, and topography, and show that accounting for imperfect descriptions systematically increases the reliability of source estimates.
 
+**Related publications:** \
+Nutz, A., T. Ragon, M. Schuster, **in review**. Continental rift evolution: new insights from the Turkana Depression (EARS, Kenya)\
+Ragon et al., **2018**. Accounting for fault geometry uncertainty in source inversion --  I: theory and simplified application. *Geophysical Journal International*, 214(2), 1174-1190. doi: [10.1093/gji/ggy187](http://dx.doi.org/10.1093/gji/ggy187)  
+{: .notice} 
