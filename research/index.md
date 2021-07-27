@@ -6,11 +6,11 @@ image:
   feature: feature2.png
   credit: T. Ragon. Topernawi, Kenya.
 feature_row:
-  - image_path: /research/unc1.png
+  - image_path: unc1.png
     alt: ""
     title: "Uncertainty in slip estimates"
     excerpt: "Accounting for uncertainties to improve our models"
-    url: "/_pages/uncertainties-in-source-estimates"
+    url: "https://thearagon.github.io/_pages/uncertainties-in-source-estimates"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /images/research/viz.png
