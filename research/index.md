@@ -46,7 +46,7 @@ feature_row2:
   - image_path: "https://thearagon.github.io/research/img/rift1.png"
     alt: ""
     title: "Rifting processes"
-    excerpt: "Rift evolution and dynamics"
+    excerpt: "Rift architecture and evolution"
     url: "https://thearagon.github.io/_pages/rift"
     btn_label: "Read More"
     btn_class: "btn--inverse"
