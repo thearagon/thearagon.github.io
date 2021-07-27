@@ -6,14 +6,14 @@ image:
   feature: feature2.png
   credit: T. Ragon. Topernawi, Kenya.
 feature_row:
-  - image_path: "/img/unc1.png"
+  - image_path: "https://thearagon.github.io/research/img/unc1.png"
     alt: ""
     title: "Uncertainty in slip estimates"
     excerpt: "Accounting for uncertainties to improve our models"
     url: "https://thearagon.github.io/_pages/uncertainties-in-source-estimates"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: img/viz.png
+  - image_path: "https://thearagon.github.io/research/img/viz.png"
     alt: "placeholder image 2"
     title: "Vizualization of uncertainties"
     excerpt: "Improve our understanding with vizualization of large datasets"
@@ -21,14 +21,14 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
-  - image_path: /images/research/modelinven.png
+  - image_path: "https://thearagon.github.io/research/img/modelinven.png"
     alt: ""
     title: "Inverse problems"
     excerpt: "Explore the solution space"
     url: "https://thearagon.github.io/_pages/inverse-problems"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/research/afterslip.png
+  - image_path: "https://thearagon.github.io/research/img/afterslip.png"
     alt: ""
     title: "Early afterslip"
     excerpt: "And how it affects coseismic estimates"
@@ -36,14 +36,14 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row2:
-  - image_path: /images/research/fg1.png
+  - image_path: "https://thearagon.github.io/research/img/fg1.png"
     alt: ""
     title: "Fault geometry"
     excerpt: ""
     url: "https://thearagon.github.io/_pages/fault-geometry"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /images/research/rift1.png
+  - image_path: "https://thearagon.github.io/research/img/rift1.png"
     alt: ""
     title: "Rifting processes"
     excerpt: ""
