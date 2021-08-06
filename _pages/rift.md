@@ -9,9 +9,9 @@ image:
 > The early stage of rifting (i.e., stretching phase) is pivotal to be characterized, as it may condition subsequent stages of the break-up cycle. Although the definitive architectures of rifted margins have been extensively documented and discussed over the past decades from a wide range of examples, the complete history of continental rifting, from pre-rift to early post-tectonic conditions, remains scarcely depicted, in particular from real case studies and field evidences. Similarly, few numerical studies focus on continental rifts evolution alone. Possible reasons are that archives are rarely observable as buried under several kilometers of sediments, and their numerical modeling remains limited by the modest resolution we are currently able to reach.
 >
 > Many questions remain (at least partly) unanswered: 
-> - How does rifting initiates? What is the role of inheritance in this incipient stage?
-> - How does the deformation, and in particular strain distribution, evolves?
-> - What is the distribution between far-field and near-field deformation? 
+> - How does rifting initiate? What is the role of inheritance in this incipient stage?
+> - How does the deformation, and in particular strain distribution, evolve?
+> - What is the distribution of far-field and near-field deformation? 
 > - What are the interplays between different controls in the architecture of rifts - tectonism, magmatism, sedimentation, etc?
 
 **Related publications:** \
