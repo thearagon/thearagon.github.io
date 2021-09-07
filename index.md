@@ -35,6 +35,8 @@ You can also reach me via:
        
 ---
 ### Latest News
+- *September 2021*: Glad to have given the first seminar of the year at the [geological lab of ENS Paris](http://www.geologie.ens.fr/)! 
+
 - *June 2021*: Our session proposal for AGU 2021 has been accepted! Please consider [submitting abstracts](https://agu.confex.com/agu/fm21/prelim.cgi/Session/124133) to S023- **State-of-the-art observations and modeling of earthquake source processes**, convened with Alice Gabriel, Elisa Tinti and Yoshihiro Kaneko.
 
 - *June 2021*: I am participating to the [Pylith 2021 Hackathon](https://geodynamics.org/cig/events/calendar/2021-pylith-hack/)!
