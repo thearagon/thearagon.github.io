@@ -77,6 +77,10 @@ Defended at *Université Côte d'Azur*, Nice, France.
 <br style="line-height: 5px" />
 
 #### Invited talks and seminars
+0. November **2021**, *Isterre*, Grenoble, France. The talk has been recorded: [On-fault deformation estimates: can we mitigate the effect of our approximations?](https://videos.univ-grenoble-alpes.fr/video/21676-seminar-thea-ragon-on-fault-deformation-estimates-can-we-mitigate-the-effect-of-our-approximations/)
+
+0. September **2021**, *ENS*, Paris, France.
+
 0. March **2021**, *Géoazur*, Nice, France. You can find the recording of my talk on their youtube chanel: [How to hamper the effect of Earth's structure approximations on on-fault deformation estimates?](https://www.youtube.com/watch?v=q_o2PjDUpPA&list=PLSr2ZD7i9s6kwDyUg96-zFDmXYDmi1rAu&index=16)
 
 0. May **2019**, *Institut de Physique du Globe de Paris* (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.
@@ -87,6 +91,8 @@ Defended at *Université Côte d'Azur*, Nice, France.
 
 #### Selected oral presentations  
 Full list available [here](/cv/full_list.pdf)
+
+0. **Ragon, T.**, A. Nutz, M. Schuster. From fault-driven to flexural subsidence: modes of early continental rifting in the northern Turkana Depression (East African Rift, Kenya). *eLightning talk*, AGU Fall Meeting, New Orleans, **2021**.
 
 0. A. Nutz, **Ragon, T.**, M. Schuster, J.-F. Ghienne, G. Ruffet, J.L. Rubino. Caractérisation d’un micro-bassin « Early syn-rift » dans la Dépression du Turkana (Rift Est-Africain) : implications pour les modèles d’initiation de l’ouverture.  17e Congrès de Sédimentologie Français, Oct 2019, Beauvais, France, **2019**.
 
