@@ -35,6 +35,10 @@ You can also reach me via:
        
 ---
 ### Latest News
+- *November 2021*: Our paper on the evolution of the northern Turkana Depression (EARS), as seen from the interpretation of seismic reflection and field analyses, [is now published in EPSL!](https://doi-org.caltech.idm.oclc.org/10.1016/j.epsl.2021.117285) Key result: we show that a regional-scale migration of the locus of brittle deformation promotes the concomitant development of post-tectonic (sag) and syn-tectonic deformations.
+
+- *November 2021*: My recent seminar at Isterre, Grenoble, has been recorded: [video is here, with the first few minutes missing](https://videos.univ-grenoble-alpes.fr/video/21676-seminar-thea-ragon-on-fault-deformation-estimates-can-we-mitigate-the-effect-of-our-approximations/)
+
 - *September 2021*: Glad to have given the first seminar of the year at the [geological lab of ENS Paris](http://www.geologie.ens.fr/)! 
 
 - *June 2021*: Our session proposal for AGU 2021 has been accepted! Please consider [submitting abstracts](https://agu.confex.com/agu/fm21/prelim.cgi/Session/124133) to S023- **State-of-the-art observations and modeling of earthquake source processes**, convened with Alice Gabriel, Elisa Tinti and Yoshihiro Kaneko.
