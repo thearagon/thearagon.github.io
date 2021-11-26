@@ -17,7 +17,7 @@ modified: 2019-07-07
 *Last update October 2020*
 
 <center>
-<h5> 2020 </h5>
+<h5> 2021 </h5>
 </center>
 {: .textblue}  
 
@@ -25,6 +25,10 @@ modified: 2019-07-07
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates, **2021**. *Geophysical Journal International*. doi: [10.1093/gji/ggaa526](https://doi.org/10.1093/gji/ggaa526). [**[Free access link]**](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggaa526/5955446?guestAccessKey=daf97f1e-4f32-4c42-9bee-58d0c85989c7)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2020_gji.pdf) [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2020_gji_suppl.pdf)
 
+<center>
+<h5> 2020 </h5>
+</center>
+{: .textblue}  
 0. **Ragon, T.**, M. Simons, Q. Bletery, O. Cavalié, E. Fielding. A stochastic view of the 2020 Elazig Mw6.8 earthquake (Turkey), **2020**. *Geophysical Research Letters*. doi: [10.1029/2020GL090704](https://doi.org/10.1029/2020GL090704). [**[Free access link]**](https://onlinelibrary.wiley.com/share/author/S7CHFYHJGCAGVPGV3EEX?target=10.1029/2020GL090704) [![preprint]({{ site.url }}/images/arxiv.png)](https://doi.org/10.1002/essoar.10504361.1)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2020_grl.pdf) [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2020_grl_suppl.pdf)
 
 0. Nutz, A., M. Schuster, D. Barboni, G. Gassier, B. Van Bocxlaer, C. Robin, **T. Ragon**, J.F. Ghienne, J.-L. Rubino, **2020**. Plio-Quaternary sedimentation in West Turkana (Turkana Depression, Kenya, East African Rift System): paleolake fluctuations, paleolandscapes and controlling factors. *Earth-Science Reviews*, doi: [10.1016/j.earscirev.2020.103415](https://doi.org/10.1016/j.earscirev.2020.103415). [![PDF]({{ site.url }}/images/pdf.png)](./files/nutz_2020_esr.pdf)
