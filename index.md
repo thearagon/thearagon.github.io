@@ -42,6 +42,8 @@ You can also reach me via:
 
 - *June 2022*: I have been invited to give a **keynote** on *The future of finite-fault modeling: how critical are structural heterogeneities?* at the [CIG Crustal Deformation Modeling Workshop, Golden, USA](https://geodynamics.org/events/details/260).
 
+- *June 2022*: [Pylith v3](https://geodynamics.org/resources/pylith) is out!
+
 - *June 2022*: Our session proposals for AGU 2022 have been accepted! Please consider submitting abstracts to:
     - **S001: Advancements in imaging earthquake source processes** co-convened with Zhe Jia (UCSD IGPP), Ryo Okuwaki (University of Tsukuba) and Elisa Tinti (Università La Sapienza). Invited speakers: Federica Paglialunga, EPFL, and Kurama Okubo, NIED.
     - **S006: Complexities of fault rupture and their implications for the joint studies of earthquake source physics and ground motion**, co-convened with Elif Oral (Caltech), Ahmed E. Elbanna (University of Illinois at Urbana Champaign) and Alice Gabriel (Ludwig-Maximilians-Universität). Invited speakers: Shanna Chu, Brown University and Elias R. Heimisson, ETH Zurich.
