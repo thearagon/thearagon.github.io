@@ -7,21 +7,20 @@ title: "Publications"
 modified: 2019-07-07
 ---
 
-_up to date list:_
+_up to date list:_  
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
 ![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 
-<br style="line-height: 10px" />
+<br style="line-height: 5px" />
 
 ### Peer reviewed publications
----
-*Last update June 2021*
+---  
+_Last update June 2021_
 
 <center>
 <h5> 2021 </h5>
 </center>
 {: .textblue}  
-
 0. Nutz, A., **T. Ragon**, M. Schuster. Cenozoic tectono-sedimentary evolution of the northern Turkana Depression (East African Rift System) and its significance for continental rifts, **2021**. *Earth and Planetary Science Letters*. doi: [10.1016/j.epsl.2021.117285](https://doi.org/10.1016/j.epsl.2021.117285). [![PDF]({{ site.url }}/images/pdf.png)](./files/nutz_2021_epsl.pdf)
 
 0. **Ragon, T.**, M. Simons. Accounting for uncertain 3D elastic structure in fault slip estimates, **2021**. *Geophysical Journal International*. doi: [10.1093/gji/ggaa526](https://doi.org/10.1093/gji/ggaa526). [**[Free access link]**](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggaa526/5955446?guestAccessKey=daf97f1e-4f32-4c42-9bee-58d0c85989c7)  [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2020_gji.pdf) [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2020_gji_suppl.pdf)
@@ -73,5 +72,6 @@ Defended at *Université Côte d'Azur*, Nice, France.
 <br style="line-height: 20px" />
 
 ### Scientific communications  
+---  
 I have been invited to give several keynotes, seminars and talks to international conferences. I presented several talks and posters as first author and co-authored several other oral presentations or posters.  
-The most recent news appear on my home page, but you can find more information on my [CV](/cv/cv_ragon.pdf), and the full list of posters and talks is available [here](/cv/full_list.pdf).
+The most recent news appear on my [home page](https://thearagon.github.io/), but you can find more information on my [CV](https://thearagon.github.io/cv/), and the full list of posters and talks is available [here](/cv/full_list.pdf).
