@@ -72,7 +72,7 @@ My research interests include:
   <li> Tectono-sedimentary processes of continental rift basins  </li>
 </ul>
 
-#### Some old research projects
+#### Some research interests are detailed below
 <br style="line-height: 10px" />
 
 <left>
