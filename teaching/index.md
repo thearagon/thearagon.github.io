@@ -2,9 +2,18 @@
 layout: page
 image:
   feature: feature6.png
+  credit: T. Ragon. Mercantour, France.
 title: "Teaching"
 modified: 2019-07-07
 ---
+
+
+### LaTeX classes
+In 2020 and 2021, I gave a series of tutorials on the use of LaTeX, with many hard-learned tips. Here are the resources (in French):
+- Beginning with LaTeX [![PDF]({{ site.url }}/images/pdf.png)](débuter_latex.pdf)
+- Writing my PhD with LaTeX [![PDF]({{ site.url }}/images/pdf.png)](écrire_thèse_latex.pdf)
+
+### Teaching Assistant
 During the 2016-2017 and 2017-2018 school years, I have been teaching assistant for a total of 147h at the [Earth Sciences department](https://st-unice.oca.eu/?lang=fr) of Université Côte d'Azur.
 
 As a teaching assistant, I had several responsabilities:  
