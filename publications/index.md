@@ -7,14 +7,15 @@ title: "Publications"
 modified: 2019-07-07
 ---
 
-![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
+_up to date list:_
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.ca/citations?user=v_X3_GoAAAAJ&hl=en)  
+![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-1276-1910)   
 
 <br style="line-height: 10px" />
 
 ### Peer reviewed publications
 ---
-*Last update October 2020*
+*Last update June 2021*
 
 <center>
 <h5> 2021 </h5>
@@ -72,48 +73,5 @@ Defended at *Université Côte d'Azur*, Nice, France.
 <br style="line-height: 20px" />
 
 ### Scientific communications  
-----
-
-<br style="line-height: 5px" />
-
-#### Invited talks and seminars
-0. November **2021**, *Isterre*, Grenoble, France. The talk has been recorded: [On-fault deformation estimates: can we mitigate the effect of our approximations?](https://videos.univ-grenoble-alpes.fr/video/21676-seminar-thea-ragon-on-fault-deformation-estimates-can-we-mitigate-the-effect-of-our-approximations/)
-
-0. September **2021**, *ENS*, Paris, France.
-
-0. March **2021**, *Géoazur*, Nice, France. You can find the recording of my talk on their youtube chanel: [How to hamper the effect of Earth's structure approximations on on-fault deformation estimates?](https://www.youtube.com/watch?v=q_o2PjDUpPA&list=PLSr2ZD7i9s6kwDyUg96-zFDmXYDmi1rAu&index=16)
-
-0. May **2019**, *Institut de Physique du Globe de Paris* (IPGP), Paris, France. Uncertainties in Earthquake Source Estimates.
-
-0. December **2018**, *AGU Fall Meeting*, Washington, USA. Ragon, T., A. Sladen, M. Simons. Accounting for uncertain fault geometry in source estimation problems.  
-{: reversed="reversed"}
-
-
-#### Selected oral presentations  
-Full list available [here](/cv/full_list.pdf)
-
-0. **Ragon, T.**, A. Nutz, M. Schuster. From fault-driven to flexural subsidence: modes of early continental rifting in the northern Turkana Depression (East African Rift, Kenya). *eLightning talk*, AGU Fall Meeting, New Orleans, **2021**.
-
-0. A. Nutz, **Ragon, T.**, M. Schuster, J.-F. Ghienne, G. Ruffet, J.L. Rubino. Caractérisation d’un micro-bassin « Early syn-rift » dans la Dépression du Turkana (Rift Est-Africain) : implications pour les modèles d’initiation de l’ouverture.  17e Congrès de Sédimentologie Français, Oct 2019, Beauvais, France, **2019**.
-
-0. L. Langer, **T. Ragon**, A. Sladen, J. Tromp. Impact of 3D Green's Functions with Topography on Coseismic Slip Model Inversions. AGU Fall Meeting 2018, Washington, USA, **2018**.
-	
-0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. 19th General Assembly of Wegener, Grenoble, France, **2018**.
-
-0. **Ragon, T.**, A. Sladen, M. Simons. Accounting for uncertain fault geometry in earthquake estimation problems. PhD students conference of Université Côte d'Azur-EDSFA, Nice, Fr, **2018**.
-
-0. **Ragon, T.,** , A. Sladen, M. Simons. Accounting for uncertainties related to the fault geometry in source inversion problems. G2, Nice, Fr, **2017**.
-{: reversed="reversed"}
-
-
-#### Posters  
-I presented several posters as first author and co-authored several other oral presentations or posters.
-The full list is available [here](/cv/full_list.pdf).
-
-
-#### Scientific mediation and outreach talks  
-Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Event *Mon TPE en 300s*, Geoazur, Valbonne, Fr, **2018**. *(invited)*
-
-Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Scientific days of Observatoire Côte d'Azur, Nice, Fr, **2017**. *(invited)*
-
-Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Regional final of 3 minutes thesis, Nice, Fr, **2017**.
+I have been invited to give several keynotes, seminars and talks to international conferences. I presented several talks and posters as first author and co-authored several other oral presentations or posters.  
+The most recent news appear on my home page, but you can find more information on my [CV](/cv/cv_ragon.pdf), and the full list of posters and talks is available [here](/cv/full_list.pdf).

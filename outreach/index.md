@@ -20,3 +20,7 @@ Now part of the [*Science in Schools*](http://www.sciencesalecole.org/plan-sismo
 I presented uncertainties in our knowledge of earthquakes with a chocolate analogy. It worked so well I still use it!
 I gave several outreach presentations related to this event in the years 2017-2019.
 
+##### Scientific mediation and outreach talks  
+Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Event *Mon TPE en 300s*, Geoazur, Valbonne, Fr, **2018**. *(invited)*  
+Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Scientific days of Observatoire Côte d'Azur, Nice, Fr, **2017**. *(invited)*  
+Ragon,T. Accounting for what we don't know to model earthquakes, explained with chocolate. Regional final of 3 minutes thesis, Nice, Fr, **2017**.
