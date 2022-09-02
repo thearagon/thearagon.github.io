@@ -57,7 +57,7 @@ feature_row2:
 </left>
 
 #### Open Science
-I make my research as open as possible, by openly archiving my publications, and sharing research data, scripts and numerical results. I give priority to journals that support Open Science when submitting research articles or accepting reviewer positions. I try to improve my open-source programming techniques. I am also the co-chair of the Standars and Copy-Editing team and handling editor for the diamond open access journal [Seismica](https://seismica.library.mcgill.ca/).
+I make my research as open as possible, by openly archiving my publications, and sharing research data, scripts and numerical results. I give priority to journals that support Open Science when submitting research articles or accepting reviewer positions. I am willing to improve my open-source programming techniques. I am also the co-chair of the Standars and Copy-Editing team and handling editor for the diamond Open Access journal [Seismica](https://seismica.library.mcgill.ca/).
 
 ### Research Interests
 <left>
