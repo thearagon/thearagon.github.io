@@ -13,7 +13,7 @@ I have been involved in several outreach projects, or projects for education to 
 
 #### Sismos à l'école
 ![sismoalecole](/outreach/seismoalecole.png){: .align-left}
-Part of the *Science in Schools*  education project, whose aim is to promote scientific culture in schools, by bringing scientific experiments, instruments and researchers to classrooms. I taught classes with fun experiments with pastas and soundmeters to explain earthquakes and seismic risks. I visited middle school students for cycles of 4 to 5 classes. Children loved to play with "earthquake-like" experiments, and having a female scientist in class conveyed a powerful message.
+Now part of the [*Science in Schools*](http://www.sciencesalecole.org/plan-sismos-a-lecole-presentation/)  education project, whose aim is to promote scientific culture in schools, by bringing scientific experiments, instruments and researchers to classrooms. I taught classes with fun experiments with pastas and soundmeters to explain earthquakes and seismic risks. I visited middle school students for cycles of 4 to 5 classes. Children loved to play with "earthquake-like" experiments, and having a female scientist in class conveyed a powerful message.
 
 #### My PhD in 180 seconds
 ![mt180](/outreach/mt180.png){: .align-right}
