@@ -18,7 +18,7 @@ I am the [GPS](https://www.gps.caltech.edu/) Chair’s Prize Postdoctoral Fellow
 I completed my PhD in Geophysics at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur), Université Côte d’Azur, in May 2019.
 
 My research aims at better understanding the **deformation of the shallow parts of the Earth** on multiple temporal and spatial scales, from the displacement induced a few seconds to days **before, during and after an earthquake** to the long-term interaction of fault networks. I am particularly interested in modeling or simulating earthquakes and faults behavior.  
-These last few years, I focused on source estimation problems, using probabilistic approaches to decipher the robust characteristics, or the uncertainties, of our models. I also use stochastic methods to study recent large earthquakes. Finally, I am also interested in how faults interact with each other and how the characteristic of the medium around them can impact deformations.
+These last few years, I focused on source estimation problems, using probabilistic approaches to decipher the robust characteristics, or the uncertainties, of our models. I also use stochastic methods to study recent large earthquakes. Finally, I am also interested in how faults interact with each other and how the characteristics of the medium around them can impact deformations.
 
 
 You can find me in my office in the [Seismological Laboratory](http://seismolab.caltech.edu/) building:  
@@ -40,11 +40,11 @@ You can also reach me via:
 
 - *July 2022*: [**Seismica**](https://seismica.library.mcgill.ca/) **is open for submissions!!**
 
+- *June 2022*: I have been invited to give a **keynote** on *The future of finite-fault modeling: how critical are structural heterogeneities?* at the [CIG Crustal Deformation Modeling Workshop, Golden, USA](https://geodynamics.org/events/details/260).
+
 - *June 2022*: Our session proposals for AGU 2022 have been accepted! Please consider submitting abstracts to:
     - **S001: Advancements in imaging earthquake source processes** co-convened with Zhe Jia (UCSD IGPP), Ryo Okuwaki (University of Tsukuba) and Elisa Tinti (Università La Sapienza). Invited speakers: Federica Paglialunga, EPFL, and Kurama Okubo, NIED.
     - **S006: Complexities of fault rupture and their implications for the joint studies of earthquake source physics and ground motion**, co-convened with Elif Oral (Caltech), Ahmed E. Elbanna (University of Illinois at Urbana Champaign) and Alice Gabriel (Ludwig-Maximilians-Universität). Invited speakers: Shanna Chu, Brown University and Elias R. Heimisson, ETH Zurich.
-
-- *June 2022*: I have been invited to give a **keynote** on *The future of finite-fault modeling: how critical are structural heterogeneities?* at the [CIG Crustal Deformation Modeling Workshop, Golden, USA](https://geodynamics.org/events/details/260).
 
 - *May 2022*: I am pleased to announce I have been awarded an [AGU 2021 Editors’ **Citation for Excellence in Refereeing** ](https://eos.org/agu-news/in-appreciation-of-agus-outstanding-reviewers-of-2021)
 
