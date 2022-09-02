@@ -10,7 +10,7 @@ modified: 2019-07-07
 
 ### LaTeX classes
 In 2020 and 2021, I gave a series of tutorials on the use of LaTeX, with many hard-learned tips. Here are the resources (in French):  
-<hr style="height 2px; visibility:hidden;" /> - Beginning with LaTeX [![PDF]({{ site.url }}/images/pdf.png)](débuter_latex.pdf)
+<hr style="height:2px; visibility:hidden;" /> - Beginning with LaTeX [![PDF]({{ site.url }}/images/pdf.png)](débuter_latex.pdf)
 <hr style="height:2px; visibility:hidden;" /> - Writing my PhD with LaTeX [![PDF]({{ site.url }}/images/pdf.png)](écrire_thèse_latex.pdf)
 
 ### Teaching Assistant
