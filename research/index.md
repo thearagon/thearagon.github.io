@@ -52,10 +52,13 @@ feature_row2:
     btn_class: "btn--inverse"
 ---
 
-<center>
+<left>
 <h1> Research </h1>
-</center>
+</left>
 
+#### Open Science
+
+#### Research Interests
 <center>
 My research interests include:  
 </center>
@@ -68,10 +71,7 @@ My research interests include:
   <li> Tectono-sedimentary processes of continental rift basins  </li>
 </ul>
 
-<center>
-You can find below an excerpt of some of my current or dormant research projects.
-</center>
-
+#### Some old research projects
 <br style="line-height: 10px" />
 
 <center>
