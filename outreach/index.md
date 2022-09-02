@@ -6,6 +6,11 @@ title: "Outreach and Scientific mediation"
 modified: 2019-07-07
 ---
 
+<footer role="contentinfo">
+  <div class="article-author-bottom">
+    {% include _author-bio.html %}
+  </div>
+</footer>
 
 
 > I think fun experiments and good metaphors are worth a thousand words.
