@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fake-feature.png
+  feature: feature6.png
 title: "Teaching"
 modified: 2019-07-07
 ---
