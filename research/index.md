@@ -59,10 +59,10 @@ feature_row2:
 #### Open Science
 
 #### Research Interests
-<center>
+<left>
 My research interests include:  
-</center>
-<ul style="text-align:center; list-style-position:inside;">
+</left>
+<ul style="text-align:left; list-style-position:inside;">
   <li>Complexity of the seismic source </li>
   <li>Modeling of the seismic source and slip (including post-seismic and aseismic processes)  </li>
   <li>Geometry of the causative fault</li>
@@ -74,16 +74,16 @@ My research interests include:
 #### Some old research projects
 <br style="line-height: 10px" />
 
-<center>
+<left>
 {% include feature_row %}
-</center>
-{: .align-center}
+</left>
+{: .align-left}
 
-<center>
+<left>
 {% include feature_row id="feature_row3" %}
-</center>
-{: .align-center}
+</left>
+{: .align-left}
 
-<center>
+<left>
 {% include feature_row id="feature_row2" %}
-</center>
+</left>
