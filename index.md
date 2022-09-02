@@ -18,7 +18,7 @@ I am the [GPS](https://www.gps.caltech.edu/) Chair’s Prize Postdoctoral Fellow
 I completed my PhD in Geophysics at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur), Université Côte d’Azur, in May 2019.
 
 My research aims at better understanding the **deformation of the shallow parts of the Earth** on multiple temporal and spatial scales, from the displacement induced a few seconds to days **before, during and after an earthquake** to the long-term interaction of fault networks. I am particularly interested in modeling or simulating earthquakes and faults behavior.  
-These last few years, I focused on source estimation problems, using probabilistic approaches to decipher the robust characteristics, or the uncertainties, of our models. I also use stochastic methods to study recent large earthquakes. Finally, I am also interested in how faults interact with each other and how their geometry impacts the deformation.
+These last few years, I focused on source estimation problems, using probabilistic approaches to decipher the robust characteristics, or the uncertainties, of our models. I also use stochastic methods to study recent large earthquakes. Finally, I am also interested in how faults interact with each other and how the characteristic of the medium around them can impact deformations.
 
 
 You can find me in my office in the [Seismological Laboratory](http://seismolab.caltech.edu/) building:  
@@ -36,6 +36,22 @@ You can also reach me via:
 ---
 ### Latest News
 
+- *October 2022*: I have been invited to give a seminar at ITES, Strasbourg (former EOST). 
+
+- *July 2022*: [**Seismica**](https://seismica.library.mcgill.ca/) **is open for submissions!!**
+
+- *June 2022*: Our session proposals for AGU 2022 have been accepted! Please consider submitting abstracts to:
+    - **S001: Advancements in imaging earthquake source processes** co-convened with Zhe Jia (UCSD IGPP), Ryo Okuwaki (University of Tsukuba) and Elisa Tinti (Università La Sapienza). Invited speakers: Federica Paglialunga, EPFL, and Kurama Okubo, NIED.
+    - **S006: Complexities of fault rupture and their implications for the joint studies of earthquake source physics and ground motion**, co-convened with Elif Oral (Caltech), Ahmed E. Elbanna (University of Illinois at Urbana Champaign) and Alice Gabriel (Ludwig-Maximilians-Universität). Invited speakers: Shanna Chu, Brown University and Elias R. Heimisson, ETH Zurich.
+
+- *June 2022*: I have been invited to give a **keynote** on *The future of finite-fault modeling: how critical are structural heterogeneities?* at the [CIG Crustal Deformation Modeling Workshop, Golden, USA](https://geodynamics.org/events/details/260).
+
+- *May 2022*: I am pleased to announce I have been awarded an [AGU 2021 Editors’ **Citation for Excellence in Refereeing** ](https://eos.org/agu-news/in-appreciation-of-agus-outstanding-reviewers-of-2021)
+
+- *March 2022*: I gave an **invited keynote** at the [GeoPRISMS Workshop on Deformation at plane boundaries](https://sites.google.com/hawaii.edu/strucdefworkshop2022), about *On and off-fault deformation: similar research directions for subduction zones and rift systems?*
+
+- *January 2022*: I have been offered the position of **co-Chair of the Standards and Copy Editing Team, and handlind editor, for Seismica**, a community-led diamond open access journal for earthquake sciences!
+
 - *December 2021*: Our AGU session on the earthquake source has been amazing! Many thanks to the presenters and many attendees, both online and in person, that made it possible! Recordings are available on the AGU website until February 2022. If you cannot access a presentation, please reach out to me, another convener or the presenter.
 
 - *November 2021*: Our paper on the evolution of the northern Turkana Depression (EARS), as seen from the interpretation of seismic reflection and field analyses, [is now published in EPSL!](https://doi.org/10.1016/j.epsl.2021.117285) Key result: we show that a regional-scale migration of the locus of brittle deformation promotes the concomitant development of post-tectonic (sag) and syn-tectonic deformations.
@@ -51,43 +67,3 @@ You can also reach me via:
 - *March 2021*: I gave a *Mardi Séisme* seminar at Géoazur, Nice. You can find the recording of my talk on their youtube chanel: [How to hamper the effect of Earth's structure approximations on on-fault deformation estimates?](https://www.youtube.com/watch?v=q_o2PjDUpPA&list=PLSr2ZD7i9s6kwDyUg96-zFDmXYDmi1rAu&index=16)
 
 - *January 2021*: [Our work on uncertainties in fault geometry is amongst the 14 most cited articles of GJI in 2020!](https://academic.oup.com/gji/pages/highly_cited?utm_campaign=oupac-campaign:819779&utm_source=eTOC&utm_medium=email&utm_content=text+advert&utm_term=gji)
-
-- *December 2020*: Our Bayesian analysis of the 2020 Elazığ Mw6.8 earthquake (Turkey) based on geodetic data is now published in GRL! [Free access link](https://onlinelibrary.wiley.com/share/author/S7CHFYHJGCAGVPGV3EEX?target=10.1029/2020GL090704)
-{: } 
-
-- *December 2020*: Our AGU20 session is live! Live **Modeling and imaging complex earthquake ruptures** session is **Saturday, 12 December from 4 to 6:30pm PST**. 
-    Presentations are available online:
-    * [S042 oral presentations on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107492)
-    * [S043 oral session on observation-based modeling](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107497)
-    * [S036 posters on numerical simulations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/103131)
-    * [S037 posters on observation-based modeling](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/107502)
-    
-    Questions and discussions, during and following the meeting, are encouraged in the slack workspace dedicated to the session - *if interested, ask for the link!*
-{: .noticeco} 
-
-- *November 2020*: Our work on **Accounting for uncertain 3D elastic structure in fault slip estimates** is now out in [GJI](https://doi.org/10.1093/gji/ggaa526). 
-
-- *November 2020*: A. Nutz's work on the **Plio-Pleistocene sedimentation in West Turkana (Kenya, EARS): Paleolake fluctuations, paleolandscapes and controlling factors** is now out in [Earth Science Reviews](https://doi.org/10.1016/j.earscirev.2020.103415). 
-
-- *October 2020*: Alexis Nutz will present **Plio-pleistocene paleoenvironments in West Turkana (East African Rift System, Kenya)** at the [GSA Meeting - 10/29 at 7:15pm](https://gsa.confex.com/gsa/2020AM/meetingapp.cgi/Paper/351278). 
-
-- *September 2020*: Our work on the **stochastic view of the 2020 Elazığ Mw 6.8 earthquake** (Turkey) is available as a [Preprint](https://www.essoar.org/doi/10.1002/essoar.10504361.1)
-
-- *August 2020*: Our work on **Bayesian estimate of interseismic slip deficit of the East and North Anatolian faults** (Turkey) is now published in [GRL](https://doi.org/10.1029/2020GL087775)
-
-- *July 2020*: Our work on the **impact of topography on slip estimates** is now published in *Tectonophysics*. We notably show that topography can largely affect slip models even when using geodetic data only, and that zeroth-order corrections are not sufficient to account for induced biases. [Link to journal](https://www.sciencedirect.com/science/article/pii/S0040195120302493?via%3Dihub)
-
-- _June 2020_: Our session proposal for AGU 2020 has been accepted! Please consider [submitting abstracts](https://agu.confex.com/agu/fm20/prelim.cgi/Session/103131) to S016 - **Modeling and imaging complex earthquake ruptures**, co-convened with Ryo Okuwaki, Wenyuan Fan and Dara Goldberg.
-
-- *March 2020*: Q. Bletery et al. propose a **Bayesian estimate of interseismic slip deficit of the East and North Anatolian faults** (Turkey). [Preprint available!](https://www.essoar.org/doi/10.1002/essoar.10502450.2)
-
-- *February 2020*: Our work on **topography** is now available as a preprint!
-Check it out: **Impact of topography on static slip estimates** [Free access link](https://eartharxiv.org/nsbx3/)
-
-- *December 2019*: Our work at the 2019 AGU Fall meeting:
-  - Don't miss our session on **[Resolving the Complexity of Earthquake Processes](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/87645)** convened with Kurama Okubo, Ryo Okuwaki, Wenyuan Fan and Harsha Bhat.
-Oral session on Thursday morning 10:20 - 12:20, and [posters on Friday morning](https://agu.confex.com/agu/fm19/meetingapp.cgi/Session/87062)!
-  - I will present how early afterslip impacts our co-seismic and post-seismic models in the session T13D. Come have a look at my poster the Monday afternoon!
-  - Leah Langer will present our work about the impact of topography on static slip estimates, in the same poster session.
-  
-- *October 2019*: Alexis Nutz presented our work about the [rifting of the northern Turkana Depression (Kenya, EARS)](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-8947.pdf), at the French Association of Sedimentologists annual meeting.
