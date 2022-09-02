@@ -46,6 +46,7 @@ You can also reach me via:
     - **S001: Advancements in imaging earthquake source processes** co-convened with Zhe Jia (UCSD IGPP), Ryo Okuwaki (University of Tsukuba) and Elisa Tinti (Università La Sapienza). Invited speakers: Federica Paglialunga, EPFL, and Kurama Okubo, NIED.
     - **S006: Complexities of fault rupture and their implications for the joint studies of earthquake source physics and ground motion**, co-convened with Elif Oral (Caltech), Ahmed E. Elbanna (University of Illinois at Urbana Champaign) and Alice Gabriel (Ludwig-Maximilians-Universität). Invited speakers: Shanna Chu, Brown University and Elias R. Heimisson, ETH Zurich.
 
+
 - *May 2022*: I am pleased to announce I have been awarded an [AGU 2021 Editors’ **Citation for Excellence in Refereeing** ](https://eos.org/agu-news/in-appreciation-of-agus-outstanding-reviewers-of-2021)
 
 - *March 2022*: I gave an **invited keynote** at the [GeoPRISMS Workshop on Deformation at plane boundaries](https://sites.google.com/hawaii.edu/strucdefworkshop2022), about *On and off-fault deformation: similar research directions for subduction zones and rift systems?*
