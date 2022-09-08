@@ -38,7 +38,7 @@ You can also reach me via:
 
 - *October 2022*: I have been invited to give a seminar at ITES, Strasbourg (former EOST). 
 
-- *September 2022*: I am presenting my results on the secondary zone of uplift measured after the 2010 Chile earthquake at the SCEC meeting. A version of the poster is available: [![PDF]({{ site.url }}/images/pdf.png)](./files/scec2022_small.pdf)
+- *September 2022*: I am presenting my results on the secondary zone of uplift measured after the 2010 Chile earthquake at the SCEC meeting. A version of the poster is available: [![PDF]({{ site.url }}/images/pdf.png)](publications/files/scec2022_small.pdf)
 
 - *July 2022*: [**Seismica**](https://seismica.library.mcgill.ca/) **is open for submissions!!**
 
