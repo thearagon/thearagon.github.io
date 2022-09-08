@@ -38,6 +38,8 @@ You can also reach me via:
 
 - *October 2022*: I have been invited to give a seminar at ITES, Strasbourg (former EOST). 
 
+- *September 2022*: I am presenting my results on the secondary zone of uplift measured after the 2010 Chile earthquake at the SCEC meeting. A version of the poster is available: [![PDF]({{ site.url }}/images/pdf.png)](./files/scec2022_small.pdf)
+
 - *July 2022*: [**Seismica**](https://seismica.library.mcgill.ca/) **is open for submissions!!**
 
 - *June 2022*: I have been invited to give a **keynote** on *The future of finite-fault modeling: how critical are structural heterogeneities?* at the [CIG Crustal Deformation Modeling Workshop, Golden, USA](https://geodynamics.org/events/details/260).
@@ -46,10 +48,9 @@ You can also reach me via:
 
 - *June 2022*: Our session proposals for AGU 2022 have been accepted! Please consider submitting abstracts to:
     - **S001: Advancements in imaging earthquake source processes** co-convened with Zhe Jia (UCSD IGPP), Ryo Okuwaki (University of Tsukuba) and Elisa Tinti (Università La Sapienza). Invited speakers: Federica Paglialunga, EPFL, and Kurama Okubo, NIED.
-    - **S006: Complexities of fault rupture and their implications for the joint studies of earthquake source physics and ground motion**, co-convened with Elif Oral (Caltech), Ahmed E. Elbanna (University of Illinois at Urbana Champaign) and Alice Gabriel (Ludwig-Maximilians-Universität). Invited speakers: Shanna Chu, Brown University and Elias R. Heimisson, ETH Zurich.
+    - **S006: Complexities of fault rupture and their implications for the joint studies of earthquake source physics and ground motion**, co-convened with Elif Oral (Caltech), Ahmed E. Elbanna (University of Illinois at Urbana Champaign) and Alice Gabriel (Ludwig-Maximilians-Universität). Invited speakers: Shanna Chu, Brown University and Elias R. Heimisson, ETH Zurich.  
 
-
-
+  
 - *May 2022*: I am pleased to announce I have been awarded an [AGU 2021 Editors’ **Citation for Excellence in Refereeing** ](https://eos.org/agu-news/in-appreciation-of-agus-outstanding-reviewers-of-2021)
 
 - *March 2022*: I gave an **invited keynote** at the [GeoPRISMS Workshop on Deformation at plane boundaries](https://sites.google.com/hawaii.edu/strucdefworkshop2022), about *On and off-fault deformation: similar research directions for subduction zones and rift systems?*
