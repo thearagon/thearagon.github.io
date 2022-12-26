@@ -15,7 +15,15 @@ _up to date list:_
 
 ### Peer reviewed publications
 ---  
-_Last update June 2021_
+_Last update Nov 2022_
+
+<center>
+<h5> 2022 </h5>
+</center>
+{: .textblue}  
+0. **Ragon, T.,**, M. Simons.  A secondary zone of uplift measured after megathrust earthquakes : caused by early downdip afterslip ?, **in review**. *Geophysical Research Letters*. doi: - [original preprint](https://essopenarchive.org/doi/full/10.1002/essoar.10512523.1). Resubmitted preprint:   [![PDF]({{ site.url }}/images/pdf.png)](./files/ragon_2022_grl.pdf)
+
+0. Rowe, C., Agius, M., Convers, J., Funning, G., Galasso, C. ., Hicks, S., Huynh, T., Lange, J. ., Lecocq, T., Mark, H., Okuwaki, R., **Ragon, T.**, Rychert, C., Teplitzky, S., & van den Ende, M. *(Authors in alphabetical order)*. The launch of Seismica : a seismic shift in publishing, **2022**. *Seismica*. doi: [10.26443/seismica.v1i1.255](https://seismica.library.mcgill.ca/article/view/255)
 
 <center>
 <h5> 2021 </h5>

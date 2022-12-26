@@ -36,6 +36,11 @@ You can also reach me via:
 ---
 ### Latest News
 
+
+- *December 2022*:  Our two AGU sessions led by [Zhe Jia](https://web.gps.caltech.edu/~zjia/) and [Elif Oral](https://elifo.github.io/) went extremely well! Many thanks to the presenters and many attendees, both online and in person! Special thanks to the OSPA judges. Recordings are available on the AGU website. If you cannot access a presentation, please reach out to me or another convener.
+
+- *November 2022*: I am presenting my results on the secondary zone of uplift at the 2022 SZ4D Community Meeting. Leah Langer is presenting a poster on our work on topography. 
+
 - *October 2022*: I have been invited to give a seminar at ITES, Strasbourg (former EOST). 
 
 - *September 2022*: I am presenting my results on the secondary zone of uplift measured after the 2010 Chile earthquake at the SCEC meeting. A version of the poster is available: [![PDF]({{ site.url }}/images/pdf.png)](publications/files/scec2022_small.pdf)
