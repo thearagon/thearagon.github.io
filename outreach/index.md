@@ -5,8 +5,6 @@ image:
 title: "Outreach and Scientific mediation"
 modified: 2019-07-07
 ---
-
-> I believe fun experiments and good metaphors are worth a thousand words.
  
  
 I have been involved in several outreach projects, or projects for education to scientific culture. Here are some excerpts.
