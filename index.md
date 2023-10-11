@@ -40,7 +40,7 @@ But right now, rather try to reach me via:
 
 - *July 2023*: The second part of our work with Leah Langer on the impact of topography on slip models of subduction zones is out in [JGR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB026559)! 
 
-- *May 2023*: Leah Langer gave a talk about work on topography at the SSA Annual Meeting 2023
+- *May 2023*: Leah Langer gave a talk about our work on topography at the SSA Annual Meeting 2023
 
 - *May 2023*: I just gave a seminar at JPL, entitled *Slip estimates in subduction zones: how critical are inaccuracies in the forward model ?*
 
