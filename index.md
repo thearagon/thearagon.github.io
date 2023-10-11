@@ -36,7 +36,7 @@ But right now, rather try to reach me via:
 
 - *December 2023*: I won't be at AGU, but co-convened with Elisa Tinti, Alice Gabriel, Yoshihiro Kaneko and Luca dal Zilio, the session S008: “Data-Informed Earthquake Modeling”. Leonid Pereiaslov and Tobias Kohne will present two posters about our work.
 
-- *September 2023*: Interested in the editorial workflow of [Seismica](https://seismica.library.mcgill.ca/)? Just [check out our new article](https://seismica.library.mcgill.ca/article/view/1091)
+- *September 2023*: Interested in the editorial workflow we designed for [Seismica](https://seismica.library.mcgill.ca/)? Just [check out our new article](https://seismica.library.mcgill.ca/article/view/1091)
 
 - *July 2023*: The second part of our work with Leah Langer on the impact of topography on slip models of subduction zones is out in [JGR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB026559)! 
 
