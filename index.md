@@ -14,18 +14,18 @@ title: " "
 
 Welcome!
 
-In 2024, I will start a new position as *Chargée de recherche [CNRS](https://www.cnrs.fr/en)* at the *Institut des Sciences de la Terre* ([ISTerre](https://www.isterre.fr/?lang=en)) in Grenoble. I was previously a Postdoctoral Fellow at the [California Institute of Technology](https://www.caltech.edu/), and completed my PhD at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur).
+I am *Chargée de recherche [CNRS](https://www.cnrs.fr/en)* at the *Institut des Sciences de la Terre* ([ISTerre](https://www.isterre.fr/?lang=en)) in Grenoble. I was previously a Postdoctoral Fellow at the [California Institute of Technology](https://www.caltech.edu/), and completed my PhD at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur).
 
 My research aims at better understanding the **deformation of the shallow parts of the Earth** on multiple temporal and spatial scales, from the displacement induced a few seconds to days **before, during and after an earthquake** to the long-term interaction of fault networks. 
 
-In a few months, you will find me in my office in the [ISTerre](https://www.isterre.fr/?lang=en) building:  
-_Office 202_  
+You can find me in my office in the [ISTerre](https://www.isterre.fr/?lang=en) building:  
+_Office 316_  
 _OSUG-C (Maison des Géosciences)_  
 _1381, rue de la Piscine | 38610 Gières | France_  
 {: .notice} 
 
-But right now, rather try to reach me via:  
-*thea.ragon (at) ntymail.com*
+You can also reach me via:  
+*thea.ragon (at) univ-grenoble-alpes.fr*
 {: .notice} 
      
 <br>
@@ -33,6 +33,8 @@ But right now, rather try to reach me via:
 ---
 ### Latest News
 
+
+- *February 2023*: I will give a [seminar](https://www.isterre.fr/french/recherche-observation/seminaires/article/seminaire-isterre-5508.html?id_reponse=322) at ISTerre, Grenoble
 
 - *December 2023*: I won't be at AGU, but co-convened with Elisa Tinti, Alice Gabriel, Yoshihiro Kaneko and Luca dal Zilio, the session S008: “Data-Informed Earthquake Modeling”. Leonid Pereiaslov and Tobias Köhne will present two posters about our work.
 
