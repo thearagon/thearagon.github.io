@@ -27,6 +27,8 @@ _1381, rue de la Piscine | 38610 Gières | France_
 You can also reach me via:  
 *thea.ragon (at) univ-grenoble-alpes.fr*
 {: .notice} 
+
+I am always looking for students and postdocs. If you are interested in earthquakes, want to work with me or a member of the team, and visit Grenoble, contact me! 
      
 <br>
        
