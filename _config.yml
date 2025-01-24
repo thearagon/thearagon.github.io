@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Théa Ragon
-bio: "Postdoc at Caltech - Earthquakes, faults and inverse problems"
+bio: "CR CNRS - Earthquakes, faults and inverse problems"
 locale: en_US
 url:
 image:
@@ -101,7 +101,7 @@ analytics:
 owner:
   name: Théa Ragon
   avatar: portrait.jpg
-  bio: "Postdoc at Caltech - Earthquakes, faults and inverse problems"
+  bio: "CR CNRS - Earthquakes, faults and inverse problems"
   github: thearagon
   bitbucket: #username
   orcid: 0000-0002-1276-1910
