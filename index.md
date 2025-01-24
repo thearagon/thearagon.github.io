@@ -37,7 +37,7 @@ I am always looking for students and postdocs. If you are interested in earthqua
 
 - *April 2025*: I will not be at EGU. Tobias Köhne will present some work on The Impact of 3D Elastic Structure on Estimates of Megathrust Frictional Properties, and Erwan Pathier on Quantifying interseismic deformation along the Mexican subduction zone.
 
-- *Jan 2025*: [The preprint](https://eartharxiv.org/repository/view/8436/) about our framework to solve for source time functions while updating empirical Green's functions is out. [The code is here](https://github.com/thearagon/DeepGEM_EGF). Any comment welcome!
+- *Jan 2025*: [The preprint](https://eartharxiv.org/repository/view/8436/) about our framework to solve for source time functions while updating empirical Green's functions is out. [The code is here](https://github.com/thearagon/DeepGEM_EGF). Any suggestion welcome!
 
 - *Oct 2024*: I am glad to be part of the scientific committee and to attend the [2024 Cargèse School on Earthquakes](https://earthquakes4.sciencesconf.org/) in Corsica, France. Stay tuned for next occurences! 
 
