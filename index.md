@@ -24,7 +24,7 @@ _OSUG-C (Maison des Géosciences)_
 _1381, rue de la Piscine | 38610 Gières | France_  
 {: .notice} 
 
-You can also reach me via:  
+You can also contact me by email:  
 *thea.ragon (at) univ-grenoble-alpes.fr*
 {: .notice} 
 
@@ -35,18 +35,8 @@ I am always looking for students and postdocs. If you are interested in earthqua
 ---
 ### Latest News
 
+- *April 2024*: I will not be at EGU. Tobias Köhne will present some work on The Impact of 3D Elastic Structure on Estimates of Megathrust Frictional Properties, and Erwan Pathier on Quantifying interseismic deformation along the Mexican subduction zone.
 
-- *February 2023*: I will give a [seminar](https://www.isterre.fr/french/recherche-observation/seminaires/article/seminaire-isterre-5508.html?id_reponse=322) at ISTerre, Grenoble
+- *Oct 2024*: I am glad to be part of the scientific committee and to attend the [2024 Cargèse School on Earthquakes](https://earthquakes4.sciencesconf.org/) in Corsica, France. Stay tuned for next occurences! 
 
-- *December 2023*: I won't be at AGU, but co-convened with Elisa Tinti, Alice Gabriel, Yoshihiro Kaneko and Luca dal Zilio, the session S008: “Data-Informed Earthquake Modeling”. Leonid Pereiaslov and Tobias Köhne will present two posters about our work.
-
-- *September 2023*: Interested in the editorial workflow we designed for [Seismica](https://seismica.library.mcgill.ca/)? Just [check out our new article](https://seismica.library.mcgill.ca/article/view/1091)
-
-- *July 2023*: The second part of our work with Leah Langer on the impact of topography on slip models of subduction zones is out in [JGR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB026559)! 
-
-- *May 2023*: Leah Langer gave a talk about our work on topography at the SSA Annual Meeting 2023
-
-- *May 2023*: I just gave a seminar at JPL, entitled *Slip estimates in subduction zones: how critical are inaccuracies in the forward model ?*
-
-- *March 2023*:  Our paper on the secondary zone of uplift is out in [GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101510)!
-
+- *Sept 2024*: Angela presented a poster on [our recent work at SCEC](https://central.scec.org/publication/13992)
