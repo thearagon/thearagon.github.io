@@ -18,7 +18,7 @@ _up to date list:_
 _Last update Jan 2025_
 
    
-0. **Ragon, T.,**, A. Gao, Z. Ross.  DeepGEM-EGF: A Bayesian strategy for joint estimates of source-time functions and empirical Green’s functions, **submitted**. *JGR Solid Earth*. [![preprint]({{ site.url }}/images/arxiv.png)](https://www.essoar.org/doi/10.1002/essoar.10502450.2) [![PDF]({{ site.url }}/images/pdf.png)](./files/DG-EGF_Suppl_Mat.pdf)
+0. **Ragon, T.,**, A. Gao, Z. Ross.  DeepGEM-EGF: A Bayesian strategy for joint estimates of source-time functions and empirical Green’s functions, **submitted**. *JGR Solid Earth*. [![preprint]({{ site.url }}/images/arxiv.png)](https://eartharxiv.org/repository/view/8436/) [![PDF]({{ site.url }}/images/pdf.png)](./files/DG-EGF_Suppl_Mat.pdf)
 
 0.  Mark, H., **T. Ragon**.  Funning, G., Hicks, S. P., Rowe, C., Teplitzky, S., Convers, J., Karasözen, E., Corona-Fernandez , R. D., & Fagereng, Åke. Editorial workflow of a community-led, all-volunteer scientific journal: lessons from the launch of Seismica, **2023**. *Seismica*. doi:[10.26443/seismica.v2i2.1091](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL101510) [**[Free access link]**](https://doi.org/10.26443/seismica.v2i2.1091)
    
