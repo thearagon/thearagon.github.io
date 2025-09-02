@@ -2,10 +2,10 @@
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Teaching"
+  - title: "Lecture notes"
     url: /teaching/
-#  - title: "Outreach"
-#    url: /outreach/
+  - title: "Team"
+    url: /team/
   - title: "CV"
     url: /cv/
   #- title: "Posts"
