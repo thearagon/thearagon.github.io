@@ -1,10 +1,6 @@
 ---
-layout: page
-image:
-  feature: feature5.png
-  credit: T. Ragon. Lake Turkana, Kenya.
+layout: mypage
 title: "CV"
-modified: 2019-07-07
 ---
 
 *Last update July 2022*
