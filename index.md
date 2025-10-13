@@ -34,11 +34,16 @@ I am always looking for students and postdocs. If you are interested in earthqua
        
 ---
 ### Latest News
+- *Oct 2025*: Our MSc student Islam Touzout will be at RST 2025 and talk about *Quantification du couplage intersismique le long de la subduction Mexicaine à partir de données InSAR et GNSS via une inversion bayésienne*. Erwan Pathier will present *Estimation du couplage intersismique dans la zone de subduction mexicaine combinant données InSAR et GNSS*
 
-- *April 2025*: I will not be at EGU. Tobias Köhne will present some work on The Impact of 3D Elastic Structure on Estimates of Megathrust Frictional Properties, and Erwan Pathier on Quantifying interseismic deformation along the Mexican subduction zone.
+- *Oct 2025*: **Welcome to Tom Hinton**, coming from a MSc in Cambridge, UK, who has been awarded a MESR fellowship to pursue his PhD with us, James Hollingsworth and Mai-Linh Doan
 
-- *Jan 2025*: [The preprint](https://eartharxiv.org/repository/view/8436/) about our framework to solve for source time functions while updating empirical Green's functions is out. [The code is here](https://github.com/thearagon/DeepGEM_EGF). Any suggestion welcome!
+- *Oct 2025*: **Welcome back to Islam Touzout**, who is staying a bit longer with us to work on the Mexican subduction with Mathilde Radiguet and Erwan Pathier
 
-- *Oct 2024*: I am glad to be part of the scientific committee and to attend the [2024 Cargèse School on Earthquakes](https://earthquakes4.sciencesconf.org/) in Corsica, France. Stay tuned for next occurences! 
+- *June 2025*: 📄 PhD student Bertrand Lovery's paper on the relaxation following the 2001 Mw8.4 Arequipa, Peru, earthquake [is out in JGR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113879)
+  
+- *April 2025*: At EGU, Tobias Köhne will present some work on *The Impact of 3D Elastic Structure on Estimates of Megathrust Frictional Properties*, and Erwan Pathier on *Quantifying interseismic deformation along the Mexican subduction zone*.
 
-- *Sept 2024*: Angela presented a poster on [our recent work at SCEC](https://central.scec.org/publication/13992)
+- *Fev 2025*: **Welcome to Islam Touzout**, coming from our own M2 at ISTerre, to pursue his MSc internship with us, Mathilde Radiguet and Erwan Pathier
+
+- *Jan 2025*: 📄 [The preprint](https://eartharxiv.org/repository/view/8436/) about our framework to solve for source time functions while updating empirical Green's functions is out. [The code is here](https://github.com/thearagon/DeepGEM_EGF). Any suggestion welcome!

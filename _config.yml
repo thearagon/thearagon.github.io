@@ -111,7 +111,7 @@ owner:
   stackoverflow: #http://stackoverflow.com/users/123456/username
   email:
   disqus-shortname: #username
-  twitter: thea_ragon
+  twitter: #username
   facebook: #username
   google:
     plus: #username
@@ -120,7 +120,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  linkedin: thearagon
+  linkedin: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
