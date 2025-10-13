@@ -1,7 +1,5 @@
 ---
-title: ""
 layout: page
-date: 2016-03-23T11:48:41-04:00
 ---
 
 <left>
