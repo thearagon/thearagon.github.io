@@ -34,7 +34,7 @@ I am always looking for students and postdocs. If you are interested in earthqua
        
 ---
 ### Latest News
-- *Oct 2025*: Our MSc student Islam Touzout will be at RST 2025 and talk about *Quantification du couplage intersismique le long de la subduction Mexicaine à partir de données InSAR et GNSS via une inversion bayésienne*. Erwan Pathier will present *Estimation du couplage intersismique dans la zone de subduction mexicaine combinant données InSAR et GNSS*
+- *Oct 2025*: Our MSc student Islam Touzout will be at RST 2025 and talk about his work on interseismic slip deficit estimates for the Mexican subduction
 
 - *Oct 2025*: **Welcome to Tom Hinton**, coming from a MSc in Cambridge, UK, who has been awarded a MESR fellowship to pursue his PhD with us, James Hollingsworth and Mai-Linh Doan
 
