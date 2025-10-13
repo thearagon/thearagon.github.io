@@ -34,7 +34,7 @@ I am always looking for students and postdocs. If you are interested in earthqua
        
 ---
 ### Latest News
-- *Oct 2025*: Our MSc student Islam Touzout will be at RST 2025 and talk about his work on interseismic slip deficit estimates for the Mexican subduction
+- *Oct 2025*: 📣 At RST 2025, our MSc student Islam Touzout will talk about his work on interseismic slip deficit estimates for the Mexican subduction zone
 
 - *Oct 2025*: **Welcome to Tom Hinton**, coming from a MSc in Cambridge, UK, who has been awarded a MESR fellowship to pursue his PhD with us, James Hollingsworth and Mai-Linh Doan
 
@@ -42,7 +42,7 @@ I am always looking for students and postdocs. If you are interested in earthqua
 
 - *June 2025*: 📄 PhD student Bertrand Lovery's paper on the relaxation following the 2001 Mw8.4 Arequipa, Peru, earthquake [is out in JGR](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL113879)
   
-- *April 2025*: At EGU, Tobias Köhne will present some work on *The Impact of 3D Elastic Structure on Estimates of Megathrust Frictional Properties*, and Erwan Pathier on *Quantifying interseismic deformation along the Mexican subduction zone*.
+- *April 2025*: 📣 At EGU, Tobias Köhne will present some work on *The Impact of 3D Elastic Structure on Estimates of Megathrust Frictional Properties*, and Erwan Pathier on *Quantifying interseismic deformation along the Mexican subduction zone*.
 
 - *Fev 2025*: **Welcome to Islam Touzout**, coming from our own M2 at ISTerre, to pursue his MSc internship with us, Mathilde Radiguet and Erwan Pathier
 
