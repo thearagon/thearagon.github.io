@@ -27,7 +27,7 @@ You can also contact me by email:
 *thea.ragon (at) univ-grenoble-alpes.fr*
 {: .notice} 
 
-I am always looking for students and postdocs. If you are interested in earthquakes, want to work with me or a member of the team, and visit Grenoble, contact me! 
+I am always looking for students and postdocs. If you are interested in earthquakes, want to work with me or a [member of the team](https://www.isterre.fr/french/recherche/equipes-de-recherche/cycle-sismique-et-deformations-transitoires/), and visit Grenoble, contact me! 
      
 <br>
        
