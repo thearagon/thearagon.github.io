@@ -1,10 +1,6 @@
 ---
-layout: page
-image:
-  feature: feature6.png
-  credit: T. Ragon. Mercantour, France.
+layout: mypage
 title: "Lecture notes"
-modified: 2019-07-07
 ---
 
 <br style="line-height: 1px" />

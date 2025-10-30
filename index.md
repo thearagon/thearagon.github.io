@@ -1,8 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: feature4.png
-  credit: "T. Ragon. Coseismic rupture of the Mw 6.3 Amatrice earthquake, Mt Vettore, Italy."
+  feature: feature2.png
 title: " "
 ---
 
@@ -14,7 +13,7 @@ title: " "
 
 Welcome!
 
-I am *Chargée de recherche [CNRS](https://www.cnrs.fr/en)* (equivalent to tenured associate prof.) at the *Institut des Sciences de la Terre* ([ISTerre](https://www.isterre.fr/?lang=en)) in Grenoble. I was previously a Postdoctoral Fellow at the [California Institute of Technology](https://www.caltech.edu/), and completed my PhD at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur).
+I am *Chargée de recherche [CNRS](https://www.cnrs.fr/en)* (equivalent to associate prof.) at the *Institut des Sciences de la Terre* ([ISTerre](https://www.isterre.fr/?lang=en)) in Grenoble. I was previously a Postdoctoral Fellow at the [California Institute of Technology](https://www.caltech.edu/), and completed my PhD at [Géoazur](https://geoazur.oca.eu/fr/acc-geoazur).
 
 My research aims at better understanding the **deformation of the shallow parts of the Earth** on multiple temporal and spatial scales, from the displacement induced a few seconds to days **before, during and after an earthquake** to the long-term interaction of fault networks. 
 
@@ -34,6 +33,7 @@ I am always looking for students and postdocs. If you are interested in earthqua
        
 ---
 ### Latest News
+
 - *Oct 2025*: 📣 At RST 2025, our MSc student Islam Touzout will talk about his work on interseismic slip deficit estimates for the Mexican subduction zone
 
 - *Oct 2025*: **Welcome to Tom Hinton**, coming from a MSc in Cambridge, UK, who has been awarded a MESR fellowship to pursue his PhD with us, James Hollingsworth and Mai-Linh Doan

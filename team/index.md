@@ -1,8 +1,7 @@
 ---
 layout: page
 image:
-  feature: feature7.png
-  credit: L. Mandon, Vercors, France
+  feature: feature.png
 title: "Team"
 ---
 
